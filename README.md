@@ -22,6 +22,6 @@
 
 `Branch` `merge` `git restore` `checkout` `Fork` `commit message`
 
-[220707_01]()
+[220707_01](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220707_01.md)
 
-[220707_02]()
+[220707_02](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220707_02.md)
