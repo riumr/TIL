@@ -16,3 +16,12 @@
 
 [220706_01](https://github.com/riumr/TIL/blob/1286113325f919ddf28f7418927ee75284bcd64e/220706/220706_01.md)
 
+## 220707
+
+`Github Flow`와 `pull request` 방법을 배웠다.
+
+`Branch` `merge` `git restore` `checkout` `Fork` `commit message`
+
+[220707_01]()
+
+[220707_02]()
