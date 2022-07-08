@@ -34,4 +34,6 @@
 
 [220708_01](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220708_01.md) `복습`
 
-[220708_02](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220708_02.md)  `특강` `실습`
+[220708_채용트렌드](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220708_02.md)  `특강`
+
+[220708_실습](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220708_02.md)  `실습`
