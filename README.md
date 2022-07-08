@@ -32,7 +32,7 @@
 
 `TIL 1.5` `설명` `프로젝트` `공고 리서치`
 
-[220708_01](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220708_01.md) `복습`
+[220708_01](https://github.com/riumr/TIL/blob/d76740835431ac73f17028c2c89b9515b0a8ad88/220708/220708_01.md) `복습`
 
 [220708_채용트렌드](https://github.com/riumr/TIL/blob/d081c9d0445d54a986abaf368be3de1588587586/%ED%8A%B9%EA%B0%95/220708_%EC%B1%84%EC%9A%A9%ED%8A%B8%EB%A0%8C%EB%93%9C.md)  `특강`
 
