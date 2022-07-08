@@ -25,3 +25,13 @@
 [220707_01](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220707_01.md)
 
 [220707_02](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220707_02.md)
+
+## 220708
+
+`채용트렌드 특강` 과 `채용공고 리서치 실습` 을 했다.
+
+`TIL 1.5` `설명` `프로젝트` `공고 리서치`
+
+[220708_01](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220708_01.md) `복습`
+
+[220708_02](https://github.com/riumr/TIL/blob/80d5665a27129ad93b60690e74b8ed48be266cdc/220707/220708_02.md)  `특강`
