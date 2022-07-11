@@ -37,3 +37,11 @@
 [220708_채용트렌드](https://github.com/riumr/TIL/blob/d081c9d0445d54a986abaf368be3de1588587586/%ED%8A%B9%EA%B0%95/220708_%EC%B1%84%EC%9A%A9%ED%8A%B8%EB%A0%8C%EB%93%9C.md)  `특강`
 
 [220708_실습](https://github.com/riumr/TIL/blob/1e5e0054fe0333d1474e9717e2e654b3d2d09da5/%ED%8A%B9%EA%B0%95/220708_%EC%B7%A8%EC%97%85%EA%B3%B5%EA%B3%A0%EB%B6%84%EC%84%9D%EC%8B%A4%EC%8A%B5.md)  `실습`
+
+## 220711
+
+`python` 기본 문법을 배웠다.
+
+[220711_01](https://github.com/riumr/TIL/blob/0d14c39fa64afea927b22ccd742d3a5692ad9101/220711/220711_01.md) `OOP` `PEP8`
+
+[220711_02](https://github.com/riumr/TIL/blob/0d14c39fa64afea927b22ccd742d3a5692ad9101/220711/220711_02.md) `컨테이너 분류`
