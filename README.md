@@ -44,4 +44,4 @@
 
 [220711_01](https://github.com/riumr/TIL/blob/0d14c39fa64afea927b22ccd742d3a5692ad9101/220711/220711_01.md) `OOP` `PEP8`
 
-[220711_02](https://github.com/riumr/TIL/blob/0d14c39fa64afea927b22ccd742d3a5692ad9101/220711/220711_02.md) `컨테이너 분류`
+[220711_02](https://github.com/riumr/TIL/blob/0d14c39fa64afea927b22ccd742d3a5692ad9101/220711/220711_02.md) `컨테이너 분류` `codeup문제실습`
