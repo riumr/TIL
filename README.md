@@ -45,3 +45,12 @@
 [220711_01](https://github.com/riumr/TIL/blob/0d14c39fa64afea927b22ccd742d3a5692ad9101/220711/220711_01.md) `OOP` `PEP8`
 
 [220711_02](https://github.com/riumr/TIL/blob/0d14c39fa64afea927b22ccd742d3a5692ad9101/220711/220711_02.md) `컨테이너 분류` `codeup문제실습`
+
+## 220712
+
+`python` `제어문`과 `반복문`을 배우고 `문제`를 풀었다.
+
+[220712_01](https://github.com/riumr/TIL/blob/c311d632b877a961922c62f15970b054b61a1bd2/220712/220712_01.md) `제어문`, `반복문` `pythontutor`
+
+220712_02 ` 문제풀이` `notion 문제`
+
