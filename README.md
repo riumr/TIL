@@ -54,3 +54,8 @@
 
 220712_02 ` 문제풀이` `notion 문제`
 
+## 220713
+
+`python 함수` 에 대해 배우고 `문제`를 풀었다.
+
+[220713_01](https://github.com/riumr/TIL/blob/18386b144bc4375a1111309f3ef992fa4b0448fd/220713/220713_01.md) ` argument` `abstraction` `def(**parameter)`
