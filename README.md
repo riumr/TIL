@@ -59,3 +59,14 @@
 `python 함수` 에 대해 배우고 `문제`를 풀었다.
 
 [220713_01](https://github.com/riumr/TIL/blob/18386b144bc4375a1111309f3ef992fa4b0448fd/220713/220713_01.md) ` argument` `abstraction` `def(**parameter)`
+
+220712_02 `codeup` `notion 문제`
+
+## 220714
+
+`python 메서드`에대해 배우고 ` 문제`를 풀었다.
+
+[220714_01](https://github.com/riumr/TIL/blob/9567ceb0fc6f7150c552fbf4c12eba975b15941b/220714/220714.md) `method`
+
+220714_01 `codeup` `notion 문제`
+
