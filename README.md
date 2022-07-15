@@ -54,6 +54,8 @@
 
 220712_02 ` 문제풀이` `notion 문제`
 
+[문제풀이]()
+
 ## 220713
 
 `python 함수` 에 대해 배우고 `문제`를 풀었다.
@@ -61,6 +63,8 @@
 [220713_01](https://github.com/riumr/TIL/blob/18386b144bc4375a1111309f3ef992fa4b0448fd/220713/220713_01.md) ` argument` `abstraction` `def(**parameter)`
 
 220712_02 `codeup` `notion 문제`
+
+[문제풀이]()
 
 ## 220714
 
@@ -70,8 +74,12 @@
 
 220714_01 `codeup` `notion 문제`
 
+[문제풀이]()
+
 ## 220715
 
 `JSON 실습문제` 를 풀었다.
 
-[220715]()
+[220715](https://github.com/riumr/TIL/blob/c38fa9c308914a66a817ea1b6538f8c54b26aa84/220715/220715.md)
+
+[문제풀이](https://github.com/riumr/01-PJT-01/tree/master/3회차/김태형)
