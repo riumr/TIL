@@ -54,7 +54,7 @@
 
 220712_02 ` 문제풀이` `notion 문제`
 
-[문제풀이]()
+[문제풀이](https://github.com/riumr/TIL/tree/main/220712/문제)
 
 ## 220713
 
