@@ -64,7 +64,7 @@
 
 220712_02 `codeup` `notion 문제`
 
-[문제풀이]()
+[문제풀이](https://github.com/riumr/TIL/tree/main/별도%20문제/220713)
 
 ## 220714
 
