@@ -83,3 +83,12 @@
 [220715](https://github.com/riumr/TIL/blob/c38fa9c308914a66a817ea1b6538f8c54b26aa84/220715/220715.md)
 
 [문제풀이](https://github.com/riumr/01-PJT-01/tree/master/3회차/김태형)
+
+## 220718
+
+`Error`와 `예외`의 유형과 예외처리법(`try-except`)을 배우고, 문제를 통해 실습했다.
+
+[220718](https://github.com/riumr/TIL/blob/5263bc0d42d0b5bdae40ca672ead603ba3d3b11a/220718/220718.md)
+
+[문제풀이](https://github.com/riumr/TIL/tree/main/별도%20문제/220718)
+
