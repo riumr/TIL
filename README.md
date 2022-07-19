@@ -92,3 +92,10 @@
 
 [문제풀이](https://github.com/riumr/TIL/tree/main/별도%20문제/220718)
 
+## 220719
+
+python이 객체지향언어라는 점을 배웠다.
+
+[220719_OOP](https://github.com/riumr/TIL/blob/ebd480c0695fb835bd893d8f2d0204ecc7a41364/220719/220719_OOP.md) `class` `type` `instance`
+
+[문제풀이](https://github.com/riumr/TIL/tree/main/문제모음/220719)
