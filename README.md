@@ -86,7 +86,7 @@
 
 ## 220718
 
-`Error`와 `예외`의 유형과 예외처리법(`try-except`)을 배우고, 문제를 통해 실습했다.
+`Error`와 `예외`의 유형과 예외처리법(`try-except`)을 배우고, 문제를 풀었다.
 
 [220718](https://github.com/riumr/TIL/blob/5263bc0d42d0b5bdae40ca672ead603ba3d3b11a/220718/220718.md)
 
@@ -99,3 +99,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220719_OOP](https://github.com/riumr/TIL/blob/ebd480c0695fb835bd893d8f2d0204ecc7a41364/220719/220719_OOP.md) `class` `type` `instance`
 
 [문제풀이](https://github.com/riumr/TIL/tree/main/문제모음/220719)
+
+## 220720
+
+method 유형을 배웠다.
+
+[220720_OOP](https://github.com/riumr/TIL/blob/f314933466fe7392150ca5d86e05f51e2b8528fd/220720/220720.md)
+
+[문제풀이](https://github.com/riumr/TIL/tree/main/문제모음/220720)
