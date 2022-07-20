@@ -102,7 +102,9 @@ python이 객체지향언어라는 점을 배웠다.
 
 ## 220720
 
-method 유형을 배웠다.
+`method의 유형`을 배웠다.
+
+`instance method`, `class method`, `static method`, `상속`, `super()`
 
 [220720_OOP](https://github.com/riumr/TIL/blob/f314933466fe7392150ca5d86e05f51e2b8528fd/220720/220720.md)
 
