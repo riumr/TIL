@@ -109,3 +109,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220720_OOP](https://github.com/riumr/TIL/blob/f314933466fe7392150ca5d86e05f51e2b8528fd/220720/220720.md)
 
 [문제풀이](https://github.com/riumr/TIL/tree/main/문제모음/220720)
+
+## 220721
+
+comprehension을 배우고 문제를 풀었다.
+
+[220721](https://github.com/riumr/TIL/blob/fc567d9746bee524e9f89f232c13923b6895c777/220721/220721.md)
+
+[문제풀이](https://github.com/riumr/TIL/tree/main/문제모음/220721)
