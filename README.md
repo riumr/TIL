@@ -117,3 +117,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220721](https://github.com/riumr/TIL/blob/fc567d9746bee524e9f89f232c13923b6895c777/220721/220721.md) `List comprehension`, `dictionary comprehensioin`
 
 [문제풀이](https://github.com/riumr/TIL/tree/main/문제모음/220721)
+
+## 220722
+
+`TMDB api`를 사용해 `JSON`을 호출하고 파싱하는 실습을 했다.
+
+[220722](https://github.com/riumr/TIL/blob/d04dd617b2b205f4367893f2656ab6eacccfd5e7/220722/220722.md)
+
+[문제풀이]() 추가
