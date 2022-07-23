@@ -124,4 +124,4 @@ python이 객체지향언어라는 점을 배웠다.
 
 [220722](https://github.com/riumr/TIL/blob/d04dd617b2b205f4367893f2656ab6eacccfd5e7/220722/220722.md)
 
-[문제풀이]() 추가
+[문제풀이](https://github.com/kdt-hphk/01-PJT-02/tree/main/3회차/김태형)
