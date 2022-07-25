@@ -125,3 +125,12 @@ python이 객체지향언어라는 점을 배웠다.
 [220722](https://github.com/riumr/TIL/blob/d04dd617b2b205f4367893f2656ab6eacccfd5e7/220722/220722.md)
 
 [문제풀이](https://github.com/kdt-hphk/01-PJT-02/tree/main/3회차/김태형)
+
+## 220725
+
+`코딩테스트` `강의 방향`과 `TIP`들을 들었고 `문제`를 풀었다.
+
+[220725](https://github.com/riumr/TIL/blob/fb7b9d82f45e9aeb7c43761eabc481d0512bba14/220725/220725.md) `강의방향 설명`
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220725)
+
