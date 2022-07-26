@@ -134,3 +134,10 @@ python이 객체지향언어라는 점을 배웠다.
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220725)
 
+## 220726
+
+`시간복잡도`와 `Big-0`의 개념을 배웠다.
+
+[220726](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220726)
+
+[문제풀이]()  `수학적 해결 방법 필요`
