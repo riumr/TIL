@@ -140,4 +140,12 @@ python이 객체지향언어라는 점을 배웠다.
 
 [220726](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220726)
 
-[문제풀이]()  `수학적 해결 방법 필요`
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220726)  `수학적 해결 방법 필요`
+
+## 220727
+
+`문자열 메소드 개념`에 대해 배웠다.
+
+[220727]()
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220727)
