@@ -149,3 +149,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220727](https://github.com/riumr/TIL/blob/26d6b9b627cddda9276cd16579211ed693cbc530/220727/220727.md)
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220727)
+
+## 220728
+
+문제풀이에서 `Dictionary(Hash table)`을 활용하는 것의 장점을 배웠다.
+
+[220728](https://github.com/riumr/TIL/blob/80ef1791c188cc868ceeb4081cdd6b1a1a3f0004/220728/220728.md) `Hash function`
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220728)
