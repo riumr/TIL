@@ -160,8 +160,8 @@ python이 객체지향언어라는 점을 배웠다.
 
 ## 220729
 
-모의 코팅테스트를 했다.
+모의 코팅테스트를 했다. 
 
-[220729](https://github.com/riumr/TIL/blob/b021fadd996f759749349dc2d615f0cae0757d7a/220729/220729.md)
+[220729](https://github.com/riumr/TIL/blob/b021fadd996f759749349dc2d615f0cae0757d7a/220729/220729.md) `비둘기짐 이론` `aws Iot`
 
 [문제풀이](https://github.com/riumr/01-PJT-03/tree/master/3회차/김태형)
