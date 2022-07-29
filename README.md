@@ -157,3 +157,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220728](https://github.com/riumr/TIL/blob/80ef1791c188cc868ceeb4081cdd6b1a1a3f0004/220728/220728.md) `Hash function`
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220728)
+
+## 220729
+
+모의 코팅테스트를 했다.
+
+[220729](https://github.com/riumr/TIL/blob/b021fadd996f759749349dc2d615f0cae0757d7a/220729/220729.md)
+
+[문제풀이](https://github.com/riumr/01-PJT-03/tree/master/3회차/김태형)
