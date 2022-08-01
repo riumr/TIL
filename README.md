@@ -160,8 +160,16 @@ python이 객체지향언어라는 점을 배웠다.
 
 ## 220729
 
-모의 코팅테스트를 했다. 
+`모의 코팅테스트`를 봤다. 
 
-[220729](https://github.com/riumr/TIL/blob/b021fadd996f759749349dc2d615f0cae0757d7a/220729/220729.md) `비둘기짐 이론` `aws Iot`
+[220729](https://github.com/riumr/TIL/blob/b021fadd996f759749349dc2d615f0cae0757d7a/220729/220729.md) `비둘기집 이론` `aws Iot`
 
 [문제풀이](https://github.com/riumr/01-PJT-03/tree/master/3회차/김태형)
+
+## 220801
+
+`stack`과 `que`의 개념을 배우고 관련 문제를 풀었다.
+
+[220801](https://github.com/riumr/TIL/blob/fcadbbb6c0f3cadc2953f09ffcd1acf5309d169a/220801/220801.md)
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220801)
