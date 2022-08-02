@@ -173,3 +173,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220801](https://github.com/riumr/TIL/blob/fcadbbb6c0f3cadc2953f09ffcd1acf5309d169a/220801/220801.md)
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220801)
+
+## 220802
+
+`heap` 과 `set`의 개념을 배우고 문제를 풀었다.
+
+[220802](https://github.com/riumr/TIL/blob/0de8603ff04fa6e3f31a66893a7c985f7accae5a/220802/220802.md) `1차원 선형자료구조` `O(log n)`
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220801)
