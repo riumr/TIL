@@ -194,6 +194,6 @@ python이 객체지향언어라는 점을 배웠다.
 
 `행렬`관련 문제를 더 풀었다.
 
-[220804](https://github.com/riumr/TIL/blob/78adeb82c6b61b1995fae538877a93255b5ca74c/220804/220804.md)
+[220804](https://github.com/riumr/TIL/blob/78adeb82c6b61b1995fae538877a93255b5ca74c/220804/220804.md)  `index`
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220803)
