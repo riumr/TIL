@@ -189,3 +189,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220803](https://github.com/riumr/TIL/blob/c1529738fd218bb7c9af2eb34e9358ba15ad3584/220803/220803.md)
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220803)
+
+## 220804
+
+`행렬`관련 문제를 더 풀었다.
+
+[220804](https://github.com/riumr/TIL/blob/78adeb82c6b61b1995fae538877a93255b5ca74c/220804/220804.md)
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220803)
