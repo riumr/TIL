@@ -197,3 +197,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220804](https://github.com/riumr/TIL/blob/78adeb82c6b61b1995fae538877a93255b5ca74c/220804/220804.md)  `index`
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220803)
+
+## 220805
+
+`모의 코딩테스트` 를 했다.
+
+[220805](https://github.com/riumr/TIL/blob/f9ba365afe189af24f402559d71d0c81f411a2b3/220805/220805.md)
+
+[문제풀이](https://github.com/riumr/01-PJT-04/tree/master/3회차/김태형)
