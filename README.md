@@ -205,3 +205,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220805](https://github.com/riumr/TIL/blob/f9ba365afe189af24f402559d71d0c81f411a2b3/220805/220805.md)
 
 [문제풀이](https://github.com/riumr/01-PJT-04/tree/master/3회차/김태형)
+
+## 220808
+
+`이차원배열의 탐색방식` 에 대해 배웠다.
+
+[220808](https://github.com/riumr/TIL/blob/4333a806006b137586b769d72fd46edc46755e6b/220808/220808.md) `브루트포스 알고리즘` `델타탐색`
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220808)
