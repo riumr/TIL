@@ -213,3 +213,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220808](https://github.com/riumr/TIL/blob/4333a806006b137586b769d72fd46edc46755e6b/220808/220808.md) `브루트포스 알고리즘` `델타탐색`
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220808)
+
+## 220809
+
+`그래프` 자료구조의 개념과 유형을 배웠다.
+
+[220809](https://github.com/riumr/TIL/blob/923724a6e0b8b16a911965b2dca4719ff424d149/220809/220809.md) `node` `edge` `인접리스트` `인접행렬`
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220808)
