@@ -220,4 +220,12 @@ python이 객체지향언어라는 점을 배웠다.
 
 [220809](https://github.com/riumr/TIL/blob/923724a6e0b8b16a911965b2dca4719ff424d149/220809/220809.md) `node` `edge` `인접리스트` `인접행렬`
 
-[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220808)
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220809)
+
+## 220810
+
+`그래프 탐색 알고리즘` 의 유형과 `BFS`에 대해 배웠다.
+
+[220810](https://github.com/riumr/TIL/blob/c01de8aa0b6e1c4be3ff8b93a8a2c072c819e58d/220810/220810.md)  `BFS` `최단거리` `DFS`
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220810)
