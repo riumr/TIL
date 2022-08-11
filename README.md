@@ -229,3 +229,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220810](https://github.com/riumr/TIL/blob/c01de8aa0b6e1c4be3ff8b93a8a2c072c819e58d/220810/220810.md)  `BFS` `최단거리` `DFS`
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220810)
+
+## 220811
+
+앞으로의 강의 방향을 들었다.
+
+[220811](https://github.com/riumr/TIL/blob/27f7e9f75db7b891323c13628eab7425c6eb8dae/220811/220811.md) `배운 거 리마인드` `2차원 배열 탐색`
+
+[문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220811)
