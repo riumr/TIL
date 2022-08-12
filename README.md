@@ -237,3 +237,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220811](https://github.com/riumr/TIL/blob/27f7e9f75db7b891323c13628eab7425c6eb8dae/220811/220811.md) `배운 거 리마인드` `2차원 배열 탐색`
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220811)
+
+## 220812
+
+`코딩테스트 모의고사` 를 쳤다.
+
+[220812](https://github.com/riumr/TIL/blob/366915935185e31fb2b393fb3164335799c3b325/220812/220812.md) `골드1` `visual algo`
+
+[문제풀이](https://github.com/riumr/01-PJT-05/tree/master/3회차/김태형)
