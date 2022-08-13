@@ -124,7 +124,7 @@ python이 객체지향언어라는 점을 배웠다.
 
 [220722](https://github.com/riumr/TIL/blob/d04dd617b2b205f4367893f2656ab6eacccfd5e7/220722/220722.md)
 
-[문제풀이](https://github.com/kdt-hphk/01-PJT-02/tree/main/3회차/김태형)
+[문제풀이](https://github.com/riumr/01-PJT-02/tree/7ff7029629be406f04679137636edaaf199c4026/3회차/김태형)
 
 ## 220725
 
@@ -226,7 +226,7 @@ python이 객체지향언어라는 점을 배웠다.
 
 `그래프 탐색 알고리즘` 의 유형과 `BFS`에 대해 배웠다.
 
-[220810](https://github.com/riumr/TIL/blob/c01de8aa0b6e1c4be3ff8b93a8a2c072c819e58d/220810/220810.md)  `BFS` `최단거리` `DFS`
+[220810](https://github.com/riumr/TIL/blob/c01de8aa0b6e1c4be3ff8b93a8a2c072c819e58d/220810/220810.md) `DFS` `BFS` `최단거리` 
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/220810)
 
