@@ -14,6 +14,10 @@
 
 [220712](https://github.com/riumr/TIL/tree/main/220712) `python` `제어문` `반복문` `python tutor`
 
-[220713](https://github.com/riumr/TIL/tree/main/220713) `python` `method`
+[220713](https://github.com/riumr/TIL/tree/main/220713) `python` `함수` `def(**parameter)`
 
-[220714](https://github.com/riumr/TIL/tree/main/220714) `JSON parsing 실습`
+[220714](https://github.com/riumr/TIL/tree/main/220714) `python` `method`
+
+[220715](https://github.com/riumr/TIL/tree/main/220715) `JSON parsing 실습`
+
+[220718](https://github.com/riumr/TIL/tree/main/220718) `python` `Error` `try-except`
