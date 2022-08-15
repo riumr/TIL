@@ -21,3 +21,11 @@
 [220715](https://github.com/riumr/TIL/tree/main/220715) `JSON parsing 실습`
 
 [220718](https://github.com/riumr/TIL/tree/main/220718) `python` `Error` `try-except`
+
+[220719](https://github.com/riumr/TIL/tree/main/220719) `python` `class` `instance`
+
+[220720](https://github.com/riumr/TIL/tree/main/220720) `python` `method 유형` `super()` `상속`
+
+[220721](https://github.com/riumr/TIL/tree/main/220721) `python` `comprehension`
+
+[220722](https://github.com/riumr/TIL/tree/main/220722) `JSON 호출 및 파싱`
