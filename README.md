@@ -245,3 +245,10 @@ python이 객체지향언어라는 점을 배웠다.
 [220812](https://github.com/riumr/TIL/blob/366915935185e31fb2b393fb3164335799c3b325/220812/220812.md) `골드1` `visual algo`
 
 [문제풀이](https://github.com/riumr/01-PJT-05/tree/master/3회차/김태형)
+
+## 220816
+
+`RDB의 개념` 과  `sql 작성법` 을 배웠다.
+
+[220816](https://github.com/riumr/TIL/blob/1088a6b004f1ec4c46cc20ede7d5a61eb17192d3/220816/220816.md) `schema` `table` `CHECK` `rowid`
+
