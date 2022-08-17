@@ -252,3 +252,8 @@ python이 객체지향언어라는 점을 배웠다.
 
 [220816](https://github.com/riumr/TIL/blob/1088a6b004f1ec4c46cc20ede7d5a61eb17192d3/220816/220816.md) `schema` `table` `CHECK` `rowid`
 
+## 220817
+
+`sql 작성법` 을 배우고 실습을 했다.
+
+[220817](https://github.com/riumr/TIL/blob/530b185f94f4c08b73547f104b17d5cd7d2abad5/220817/220817.md)
