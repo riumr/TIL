@@ -7,5 +7,4 @@ input = sys.stdin.readline
 A, B, N = map(int, input().split())
 
 # 첫째 자리 수
-answer = int((A/B*10) % 10)
-print(answer)
+answer = A/B
