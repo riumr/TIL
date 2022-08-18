@@ -252,8 +252,20 @@ python이 객체지향언어라는 점을 배웠다.
 
 [220816](https://github.com/riumr/TIL/blob/1088a6b004f1ec4c46cc20ede7d5a61eb17192d3/220816/220816.md) `schema` `table` `CHECK` `rowid`
 
+[실습내용](https://github.com/riumr/TIL/tree/main/220816/실습)
+
 ## 220817
 
 `sql 작성법` 을 배우고 실습을 했다.
 
-[220817](https://github.com/riumr/TIL/blob/530b185f94f4c08b73547f104b17d5cd7d2abad5/220817/220817.md)
+[220817](https://github.com/riumr/TIL/blob/530b185f94f4c08b73547f104b17d5cd7d2abad5/220817/220817.md) `WHERE` `LIKE` `FUNCTION`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220817/실습)
+
+## 220818
+
+`sql 작성법` 을 배우고 실습했다.
+
+[220818](https://github.com/riumr/TIL/blob/c75bb10f3b7562023a58bb6a140d25c730272751/220818/220818.md) `GROUP BY` `ALTER TABLE`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220818/실습)
