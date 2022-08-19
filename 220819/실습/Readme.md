@@ -19,12 +19,12 @@ SELECT * FROM albums ORDER BY Title DESC LIMIT 5;
 ```
 
 ```
-AlbumId	Title		ArtistId
+AlbumId	Title													ArtistId
 208			[1997] 	Black Light Syndrome	136
-240			Zooropa	150
-267			Worlds	202
+240			Zooropa												150
+267			Worlds												202
 334			Weill: 	The Seven Deadly Sins	264
-8				Warner 	25 Anos	6
+8				Warner 	25 Anos								6
 ```
 
 ### 4. 고객(customers) 테이블의 행 개수를 출력하세요.
@@ -127,10 +127,17 @@ Germany	4
 
 ```sql
 SELECT ArtistId, COUNT(*) '앨범 수' FROM albums
-WHERE COUNT(*)=(SELECT MAX('앨범 수') FROM albums);
+GROUP BY ArtistId
+ORDER BY COUNT(*) DESC LIMIT 1;
+```
+
+```
+ArtistId	앨범 수
+90				21
 ```
 
 ### 12. 앨범(albums) 테이블에서 보유 앨범 수가 10개 이상인 Artist의 `ArtistId`와 `앨범 수` 출력하세요
+
 | 단, 앨범 수를 기준으로 내림차순으로 출력하세요.
 ```sql 
 SELECT ArtistId, COUNT(*) '앨범 수' FROM albums 

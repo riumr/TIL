@@ -25,8 +25,9 @@ WHERE substr(FirstName,1,1)='L' ORDER BY '고객ID';
 SELECT Country '나라', count(*) '고객 수' FROM customers GROUP BY Country 
 ORDER BY COUNT(Country) DESC LIMIT 5;
 
-SELECT ArtistId, COUNT(*) '앨범 수' FROM albums 
-GROUP BY ArtistId;
+SELECT ArtistId, COUNT(*) '앨범 수' FROM albums
+GROUP BY ArtistId
+ORDER BY COUNT(*) DESC LIMIT 1;
 
 SELECT ArtistId, COUNT(*) '앨범 수' FROM albums 
 GROUP BY ArtistId HAVING COUNT(*)>=10;
@@ -55,3 +56,12 @@ WHERE ArtistId=(SELECT MAX(ArtistId) FROM albums);
 
 SELECT Name FROM genres
 WHERE GenreId=(SELECT MIN(GenreId) FROM tracks);
+
+SELECT InvoiceId, UnitPrice FROM invoice_items
+ORDER BY UnitPrice DESC LIMIT 5;
+
+SELECT FirstName, COUNT(*) FROM customers
+GROUP BY FirstName ORDER BY COUNT(*) DESC LIMIT 10;
+
+SELECT FirstName, Company FROM customers
+WHERE substr(Company,1,1)='G' LIMIT 5;
