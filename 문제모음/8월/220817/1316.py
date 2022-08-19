@@ -3,6 +3,7 @@
 import sys
 sys.stdin = open("1316.txt")
 
+input = sys.stdin.readline
 counts = 0
 N = int(input())
 answer = True
@@ -23,7 +24,6 @@ for i in range(N):
                 break
             else:
                 answer = True
-    print(check_l)
     if answer == True:
         counts += 1
 print(counts)

@@ -1,5 +1,7 @@
-4
-aba
-abab
-abcabc
-a
+6
+ab
+aa
+aca
+ba
+bb
+aaabbbaaaa
