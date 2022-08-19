@@ -269,3 +269,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220818](https://github.com/riumr/TIL/blob/c75bb10f3b7562023a58bb6a140d25c730272751/220818/220818.md) `GROUP BY` `ALTER TABLE`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220818/실습)
+
+## 220819
+
+`sql 작성법` 을 배우고 실습했다.
+
+[220819](https://github.com/riumr/TIL/blob/97b906a23553996c76bf9d829407c0bfb03b2c16/220819/220819.md) `CASE` `SUBQUERY`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220819/실습)

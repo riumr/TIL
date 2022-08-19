@@ -20,6 +20,10 @@ for i in range(N):
             # 연속하지 않으면
             if s[j-1] != s[j]:
                 answer = False
+                break
             else:
                 answer = True
-    print(answer)
+    print(check_l)
+    if answer == True:
+        counts += 1
+print(counts)
