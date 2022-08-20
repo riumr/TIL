@@ -29,3 +29,7 @@
 [220721](https://github.com/riumr/TIL/tree/main/220721) `python` `comprehension`
 
 [220722](https://github.com/riumr/TIL/tree/main/220722) `JSON 호출 및 파싱`
+
+[220725](https://github.com/riumr/TIL/tree/main/220725) `강의방향`
+
+[220726](https://github.com/riumr/TIL/tree/main/220726) `Big-O`
