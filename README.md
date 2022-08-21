@@ -146,7 +146,7 @@ python이 객체지향언어라는 점을 배웠다.
 
 `문자열 메소드 개념`에 대해 배웠다.
 
-[220727](https://github.com/riumr/TIL/blob/26d6b9b627cddda9276cd16579211ed693cbc530/220727/220727.md)
+[220727](https://github.com/riumr/TIL/blob/f02cae429ae8e14b24ebd19fe89be862deb93c73/220727/220727.md) `공간복잡도`보다 `시간복잡도`를 더 고려하고 있다.
 
 [문제풀이](https://github.com/riumr/01-ALGORITHM/tree/master/3회차/김태형/20220727)
 

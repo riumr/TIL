@@ -33,3 +33,9 @@
 [220725](https://github.com/riumr/TIL/tree/main/220725) `강의방향`
 
 [220726](https://github.com/riumr/TIL/tree/main/220726) `Big-O`
+
+[220727](https://github.com/riumr/TIL/tree/main/220727) `시간복잡도가 더 중요하다`
+
+[220728](https://github.com/riumr/TIL/tree/main/220728) `Dictionary(Hash table)`
+
+[220729](https://github.com/riumr/TIL/tree/main/220729) `stack` `que`
