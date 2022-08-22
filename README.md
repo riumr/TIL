@@ -277,3 +277,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220819](https://github.com/riumr/TIL/blob/97b906a23553996c76bf9d829407c0bfb03b2c16/220819/220819.md) `CASE` `SUBQUERY`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220819/실습)
+
+## 220822
+
+`SQL JOIN` 을 배우고 실습했다.
+
+[220822](https://github.com/riumr/TIL/blob/fc82761627ac621f5ccac4e6a1c9665fe050f914/220822/220822.md)
+
+[실습내용](https://github.com/riumr/TIL/blob/fc82761627ac621f5ccac4e6a1c9665fe050f914/220822/Readme.md)
