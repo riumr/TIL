@@ -285,3 +285,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220822](https://github.com/riumr/TIL/blob/fc82761627ac621f5ccac4e6a1c9665fe050f914/220822/220822.md)
 
 [실습내용](https://github.com/riumr/TIL/blob/fc82761627ac621f5ccac4e6a1c9665fe050f914/220822/Readme.md)
+
+## 220823
+
+`데이터 구조 modeling`을 하기 위한 방법 `ERD`를 배우고 실습했다.
+
+[220823](https://github.com/riumr/TIL/blob/bc49b7c5bdc81163e777b25f07fd5bea7caca5a8/220823/220823.md) `Cardinarity(카드관계)` `optionality(참거짓 관계)` `정규화`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220823/실습)
