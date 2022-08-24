@@ -293,3 +293,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220823](https://github.com/riumr/TIL/blob/bc49b7c5bdc81163e777b25f07fd5bea7caca5a8/220823/220823.md) `Cardinarity(카드관계)` `optionality(참거짓 관계)` `정규화`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220823/실습)
+
+## 220824
+
+`Django` CRUD 방법를 배웠다.
+
+[220824](https://github.com/riumr/TIL/blob/9bc66221e25bb091d3822855caacb22242ae7a73/220824/220824.md)
+
+[실습내용](https://github.com/riumr/TIL/blob/9bc66221e25bb091d3822855caacb22242ae7a73/220824/DB_07.md)
