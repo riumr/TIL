@@ -301,3 +301,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220824](https://github.com/riumr/TIL/blob/9bc66221e25bb091d3822855caacb22242ae7a73/220824/220824.md)
 
 [실습내용](https://github.com/riumr/TIL/blob/9bc66221e25bb091d3822855caacb22242ae7a73/220824/DB_07.md)
+
+## 220825
+
+`Django QuerysetApi` 종류를 배우고, 실습을 통해 `Django로 CRUD` 하는 방법을 배웠다.
+
+[220825](https://github.com/riumr/TIL/blob/f7720dcfc05142fa60b7d180d6a44444bff30220/220825/220825.md) `Queryset API`
+
+[실습내용](https://github.com/riumr/TIL/blob/f7720dcfc05142fa60b7d180d6a44444bff30220/220825/DB_08.md) `Django CRUD`
