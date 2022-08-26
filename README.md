@@ -309,3 +309,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220825](https://github.com/riumr/TIL/blob/f7720dcfc05142fa60b7d180d6a44444bff30220/220825/220825.md) `Queryset API`
 
 [실습내용](https://github.com/riumr/TIL/blob/f7720dcfc05142fa60b7d180d6a44444bff30220/220825/DB_08.md) `Django CRUD`
+
+## 220826
+
+`설문리뷰` , `DB 개념 복습 문제 풀이`, `programmers SQL 문제풀이`를 했다.
+
+[220826](https://github.com/riumr/TIL/blob/f4c7cfcb6cbc3b9fa09377d2e105d7bf5eb85cf9/220826/220826.md)
+
+[SQL 문제풀이](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
