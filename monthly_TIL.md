@@ -38,4 +38,10 @@
 
 [220728](https://github.com/riumr/TIL/tree/main/220728) `Dictionary(Hash table)`
 
-[220729](https://github.com/riumr/TIL/tree/main/220729) `stack` `que`
+[220801](https://github.com/riumr/TIL/tree/main/220801)  `stack` `que`
+
+[220802](https://github.com/riumr/TIL/tree/main/220802) `heap` `set` `1차원 선형자료구조`
+
+[220803](https://github.com/riumr/TIL/tree/main/220803) `행렬`
+
+[220804](https://github.com/riumr/TIL/tree/main/220804) `행렬` `Index 활용`
