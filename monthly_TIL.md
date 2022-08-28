@@ -45,3 +45,11 @@
 [220803](https://github.com/riumr/TIL/tree/main/220803) `행렬`
 
 [220804](https://github.com/riumr/TIL/tree/main/220804) `행렬` `Index 활용`
+
+[220808](https://github.com/riumr/TIL/tree/main/220808) `델타탐색` `이차원배열 탐색`
+
+[220809](https://github.com/riumr/TIL/tree/main/220809) `그래프 자료구조` `node` `edge`
+
+[220810](https://github.com/riumr/TIL/tree/main/220810) `BFS` `DFS` `그래프 탐색 알고리즘`
+
+[220811](https://github.com/riumr/TIL/tree/main/220811) `2차원 배열 탐색`
