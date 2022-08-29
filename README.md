@@ -317,3 +317,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220826](https://github.com/riumr/TIL/blob/f4c7cfcb6cbc3b9fa09377d2e105d7bf5eb85cf9/220826/220826.md)
 
 [SQL 문제풀이](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
+
+## 220829
+
+`WEB` 의 구성요소와 기본 개념을 배웠다.
+
+[220829](https://github.com/riumr/TIL/blob/b65ede39468a5b99ed0a40e7bb39b158eb4f19f1/220829/220829.md)
+
+[실습내용](https://github.com/riumr/TIL/blob/b65ede39468a5b99ed0a40e7bb39b158eb4f19f1/220829/%EC%8B%A4%EC%8A%B5.md) `태그별 정리`

@@ -3,17 +3,26 @@
 
 # 변환과정 : 각 자리 수를 모두 더한다.
 import sys
-import math
 sys.stdin = open("1769.txt")
 input = sys.stdin.readline
 
 X = int(input())
 # 자리 수의 길이
 # 자리 수가 한 자리가 될 때까지 반복
-while len_X >= 1:
-    len_X = log(X)
-    for i in range(len_X, -1, -1):
-        Y += (X//10**i)
-        X %= 10**i
-    X = Y
+len_X = len(str(X))
+step = 0
+# def one_N(X):
+#     if len_X == 1:
+#         Y = 0
+#     for i in range(len_X-1, -1, -1):
+#        Y += (X//10**i)
+#        X %= 10**i
+#     step += 1
+#     X = Y
+#     len_X = len(str(X))
+
+
+def one_N(X):
+
+
 print(X, "\nYES") if Y % 3 == 0 else print(X, "\nNO")
