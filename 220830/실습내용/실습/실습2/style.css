@@ -1,0 +1,42 @@
+img {
+  width: 300px;
+  border-radius: 10px;
+}
+h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 13px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.card {
+  width: 300px;
+}
+.product {
+  margin-bottom: 4px;
+  font-weight: 400;
+}
+.company {
+  color: grey;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  font-size: 11px;
+}
+.price {
+  color: cornflowerblue;
+  font-size: 18px;
+  font-weight: 800;
+}
+.priceDetail {
+  font-size: 18px;
+  font-weight: 800;
+}
+.score {
+  font-size: 13px;
+  font-weight: 700;
+}
+.review {
+  color: grey;
+  font-size: 13px;
+  font-weight: 700;
+}

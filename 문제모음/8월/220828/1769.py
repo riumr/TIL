@@ -9,20 +9,21 @@ input = sys.stdin.readline
 X = int(input())
 # 자리 수의 길이
 # 자리 수가 한 자리가 될 때까지 반복
-len_X = len(str(X))
-step = 0
+
+
 # def one_N(X):
-#     if len_X == 1:
-#         Y = 0
-#     for i in range(len_X-1, -1, -1):
-#        Y += (X//10**i)
-#        X %= 10**i
-#     step += 1
-#     X = Y
-#     len_X = len(str(X))
+#     step = 0
+#     Y = 0
+#     i = len(str(X))-1
+#     Y += (X//10**i)
+#     X %= 10**i
+#     print(Y, "\nYES") if Y % 3 == 0 else print(Y, "\nNO")
 
+step = 0
+Y = 0
+i = len(str(X))-1
+Y += (X//10**i)
+X %= 10**i
+print(Y, "\nYES") if Y % 3 == 0 else print(Y, "\nNO")
 
-def one_N(X):
-
-
-print(X, "\nYES") if Y % 3 == 0 else print(X, "\nNO")
+# print(Y, "\nYES") if Y % 3 == 0 else print(Y, "\nNO")

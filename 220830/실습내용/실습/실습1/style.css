@@ -1,0 +1,53 @@
+/* 아래에 CSS를 작성해주세요. */
+body {
+  width: 900px;
+}
+h2 {
+  text-align: center;
+}
+p {
+  word-spacing: 0px;
+  margin-left: 20px;
+}
+.topWord {
+  font-size: 12px;
+}
+.card {
+  width: 900px;
+  display: inline-block;
+  margin-top: 13px;
+}
+.card01 {
+  display: inline-block;
+  width: 300px;
+}
+.card02 {
+  display: inline-block;
+  margin-left: 17px;
+  width: 300px;
+}
+img {
+  width: 300px;
+  border-radius: 20px;
+}
+
+.wordInstallation {
+  font-size: 10px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.wordGuide {
+  margin-top: 0px;
+  font-size: 14px;
+  font-weight: bolder;
+  margin-bottom: 10px;
+}
+
+.wordSummary {
+  color: gray;
+  margin-top: 0px;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 14px;
+}
