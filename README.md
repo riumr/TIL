@@ -325,3 +325,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220829](https://github.com/riumr/TIL/blob/b65ede39468a5b99ed0a40e7bb39b158eb4f19f1/220829/220829.md)
 
 [실습내용](https://github.com/riumr/TIL/blob/b65ede39468a5b99ed0a40e7bb39b158eb4f19f1/220829/%EC%8B%A4%EC%8A%B5.md) `태그별 정리`
+
+## 220830
+
+`CSS` 기본을 배우고 실습했다.
+
+[220830](https://github.com/riumr/TIL/blob/b0b4d1f1c21c84609c91f192c77e225e34ec65bb/220830/220830.md)
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220830/실습내용) `똑같이 스타일링` 
