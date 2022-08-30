@@ -18,7 +18,7 @@
 
 [220714](https://github.com/riumr/TIL/tree/main/220714) `python` `method`
 
-[220715](https://github.com/riumr/TIL/tree/main/220715) `JSON parsing 실습`
+[220715](https://github.com/riumr/01-PJT-01/tree/master/3회차/김태형) `JSON parsing 실습`
 
 [220718](https://github.com/riumr/TIL/tree/main/220718) `python` `Error` `try-except`
 
@@ -28,7 +28,7 @@
 
 [220721](https://github.com/riumr/TIL/tree/main/220721) `python` `comprehension`
 
-[220722](https://github.com/riumr/TIL/tree/main/220722) `JSON 호출 및 파싱`
+[220722](https://github.com/riumr/01-PJT-02/tree/7ff7029629be406f04679137636edaaf199c4026/3회차/김태형) `JSON 호출 및 파싱`
 
 [220725](https://github.com/riumr/TIL/tree/main/220725) `강의방향`
 
