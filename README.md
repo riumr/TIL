@@ -336,7 +336,7 @@ python이 객체지향언어라는 점을 배웠다.
 
 ## 220831
 
-`CSS flexbox` 에 대해 배웠다.
+`CSS flexbox method` 에 대해 배웠다.
 
 [220831](https://github.com/riumr/TIL/blob/99900d6ea71f9384e11201ad3c3b80bf07616619/220831/220831.md) `CSS GUIDE`
 
