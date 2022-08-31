@@ -3,8 +3,21 @@
 
 import sys
 sys.stdin = open("1769.txt")
-input = sys.stdin.readline
 
-X = int(input())
-# 변환과정
-# 모든 자리 수를 더한다
+
+def circle(S, C):
+    S = str(S)
+    if len(S) > 1:
+        C += 1
+        Y = 0
+        for i in S:
+            Y += int(i)
+        circle(str(Y), C)
+    else:
+        print(C, "\nYES") if int(S) % 3 == 0 else print(C, "\nNO")
+
+
+if __name__ == '__main__':
+    X = input()
+    step = 0
+    circle(X, step)
