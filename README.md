@@ -333,3 +333,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220830](https://github.com/riumr/TIL/blob/b0b4d1f1c21c84609c91f192c77e225e34ec65bb/220830/220830.md)
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220830/실습내용) `똑같이 스타일링` 
+
+## 220831
+
+`CSS flexbox` 에 대해 배웠다.
+
+[220831](https://github.com/riumr/TIL/blob/99900d6ea71f9384e11201ad3c3b80bf07616619/220831/220831.md) `CSS GUIDE`
+
+[실습내용](https://github.com/riumr/TIL/blob/99900d6ea71f9384e11201ad3c3b80bf07616619/220831/%EC%9E%90%EC%8A%B5%EB%82%B4%EC%9A%A9.md)
