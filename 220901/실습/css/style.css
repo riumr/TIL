@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
+
+body {
+  font-family: "Noto Sans KR", sans-serif;
+  min-width: 1280px;
+  color: #333333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+nav {
+  width: 1240px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0px 20px 0px;
+  position: fixed;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  width: 150px;
+  justify-content: space-between;
+}
+li {
+  display: inline;
+}
+li a {
+  text-decoration-line: none;
+  color: black;
+}
+li a:hover {
+  color: red;
+}
+main {
+  width: 1280px;
+}
+
+.banner {
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  background-image: url("assets/apparel.jpeg");
+  margin-top: 60px;
+  background-repeat: no-repeat;
+  background-size: 1280px;
+}
+
+.about {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+.about img {
+  width: 500px;
+  border-radius: 20px;
+}
+.aboutText {
+  width: 600px;
+  margin-left: 30px;
+  line-height: 31px;
+}
+
+.about h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.more {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.more h1 {
+  padding: 50px;
+  font-size: 30px;
+  letter-spacing: 0.043em;
+}
+
+.moreItems {
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.more img {
+  width: 70px;
+  height: 70px;
+}
+.more p {
+  margin-top: 10px;
+}
+
+.topButton {
+  width: 1280px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.topButton img {
+  justify-content: flex-end;
+  width: 40px;
+  height: 40px;
+}
+
+.products {
+  width: 1000px;
+  margin-top: 120px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.items {
+  margin: 7px;
+  padding: 5px;
+  flex: 250px;
+  border: 1.5px solid;
+}
+
+.items h1 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-img {
+  width: 300px;
+  height: 200px;
+}
