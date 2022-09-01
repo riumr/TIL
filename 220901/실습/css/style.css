@@ -40,7 +40,7 @@ main {
   height: 700px;
   display: flex;
   justify-content: center;
-  background-image: url("assets/apparel.jpeg");
+  background-image: url("../assets/apparel.jpeg");
   margin-top: 60px;
   background-repeat: no-repeat;
   background-size: 1280px;
