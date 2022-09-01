@@ -341,3 +341,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220831](https://github.com/riumr/TIL/blob/99900d6ea71f9384e11201ad3c3b80bf07616619/220831/220831.md) `CSS GUIDE`
 
 [실습내용](https://github.com/riumr/TIL/blob/99900d6ea71f9384e11201ad3c3b80bf07616619/220831/%EC%9E%90%EC%8A%B5%EB%82%B4%EC%9A%A9.md)
+
+## 220901
+
+`CSS scementic tag` 을 배우고 실습했다.
+
+[220901]()
+
+[실습내용]()
