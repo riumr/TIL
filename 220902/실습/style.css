@@ -30,7 +30,7 @@ a {
 }
 .title {
   height: 320px;
-  background-image: url(../images/background.jpg);
+  background-image: url(../실습/images/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;

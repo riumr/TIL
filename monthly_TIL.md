@@ -53,3 +53,5 @@
 [220810](https://github.com/riumr/TIL/tree/main/220810) `BFS` `DFS` `그래프 탐색 알고리즘`
 
 [220811](https://github.com/riumr/TIL/tree/main/220811) `2차원 배열 탐색`
+
+[220816](https://github.com/riumr/TIL/blob/1088a6b004f1ec4c46cc20ede7d5a61eb17192d3/220816/220816.md) `RDB 개념` `SQL CRUD`

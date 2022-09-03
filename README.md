@@ -346,6 +346,10 @@ python이 객체지향언어라는 점을 배웠다.
 
 `CSS scementic tag` 을 배우고 실습했다.
 
-[220901]()
+[실습내용](https://github.com/riumr/TIL/tree/main/220901/실습)
 
-[실습내용]()
+## 220902
+
+`CSS 페어프로그래밍`을 했다.
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220902/실습)
