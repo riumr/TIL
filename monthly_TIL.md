@@ -54,4 +54,11 @@
 
 [220811](https://github.com/riumr/TIL/tree/main/220811) `2차원 배열 탐색`
 
-[220816](https://github.com/riumr/TIL/blob/1088a6b004f1ec4c46cc20ede7d5a61eb17192d3/220816/220816.md) `RDB 개념` `SQL CRUD`
+[220816](https://github.com/riumr/TIL/tree/main/220816) `RDB 개념` `SQL CRUD`
+
+[220817](https://github.com/riumr/TIL/tree/main/220817) `SQL` `WHERE` `%__%` 
+
+[220818](https://github.com/riumr/TIL/tree/main/220818)`SQL` `GROUP BY` `문자열 메서드`
+
+[220819](https://github.com/riumr/TIL/tree/main/220819) `SQL` `CASE` `SUBQUERY`
+
