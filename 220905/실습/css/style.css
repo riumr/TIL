@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
+
+body {
+  font-family: "Noto Sans KR", sans-serif;
+  min-width: 1280px;
+  color: #333333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+nav {
+  width: 1280px;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 50px 0px 20px;
+  position: fixed;
+  background-color: white;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  width: 150px;
+  justify-content: space-between;
+}
+li {
+  display: inline;
+}
+li a {
+  text-decoration-line: none;
+  color: black;
+}
+li a:hover {
+  color: red;
+}
+main {
+  width: 1280px;
+}
+
+.banner {
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  background-image: url("../assets/apparel.jpeg");
+  margin-top: 60px;
+  background-repeat: no-repeat;
+  background-size: 1280px;
+}
+
+.about {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.about img {
+  width: 500px;
+  border-radius: 20px;
+}
+
+.about h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.aboutText {
+  width: 600px;
+  margin-left: 30px;
+  line-height: 31px;
+}
+
+.more {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.more h1 {
+  font-size: 30px;
+  letter-spacing: 0.043em;
+}
+
+.moreItems {
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.more img {
+  width: 70px;
+  height: 70px;
+}
+
+.topButton {
+  width: 1280px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.topButton img {
+  width: 40px;
+  height: 40px;
+}
+
+.card-img {
+  width: 300px;
+  height: 200px;
+}
