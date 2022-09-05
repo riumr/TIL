@@ -358,6 +358,6 @@ python이 객체지향언어라는 점을 배웠다.
 
 `bootrap` 에 대해 배웠다.
 
-[220905]() 
+[220905](https://github.com/riumr/TIL/blob/e400ef4c5d2bbc457b1755f147574b645b307920/220905/bootstrap%20%EC%9E%90%EC%8A%B5.md) 
 
-[실습내용]()
+[실습내용](https://github.com/riumr/TIL/tree/main/220905/실습)
