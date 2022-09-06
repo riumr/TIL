@@ -361,3 +361,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220905](https://github.com/riumr/TIL/blob/e400ef4c5d2bbc457b1755f147574b645b307920/220905/bootstrap%20%EC%9E%90%EC%8A%B5.md) 
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220905/실습)
+
+## 220906
+
+`bootstrap` 에 대해 더 자세히 배우고 실습했다.
+
+[220906](https://github.com/riumr/TIL/blob/4e2966802d0ce51940fd4d721aa764d456b8906a/220906/220906.md)
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220906/실습) `container` `designus.io`
