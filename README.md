@@ -369,3 +369,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220906](https://github.com/riumr/TIL/blob/4e2966802d0ce51940fd4d721aa764d456b8906a/220906/220906.md)
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220906/실습) `container` `designus.io`
+
+## 220907
+
+`Bootstrap Grid System`을 배우고 실습했다.
+
+[220907](https://github.com/riumr/TIL/blob/02a4f3f135aafa127b10dcf5b0afb115668b154e/220907/220907.md)
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220907/실습) `breakpoint` `img-fluid` `aria`
