@@ -41,7 +41,7 @@ print(result)
 #         result = f0 + f1
 #         fibo(f1, result, step)
 #     else:
-#         print(step, f1)  # 조건을 충족하지 않을 경우 이전의 결과값(f1)을 출력한다.
+#         print(step, f1)  # 조건을 충족하지 않을 경우 이전의 결과값(f1)을 출력한다. result를 출력하려하면 localerror가 발생한다.
 
 # # a = 0
 # # b = 1
