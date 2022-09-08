@@ -377,3 +377,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220907](https://github.com/riumr/TIL/blob/02a4f3f135aafa127b10dcf5b0afb115668b154e/220907/220907.md)
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220907/실습) `breakpoint` `img-fluid` `aria`
+
+## 220908
+
+`Bootsrap` 실습을 했다.
+
+[220908](https://github.com/riumr/TIL/blob/cf9385342069d0d83bd0c4657fe6573ec40e9914/220908/220908.md) `startbootsrap`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220908/실습)
