@@ -38,6 +38,8 @@
 
 [220728](https://github.com/riumr/TIL/tree/main/220728) `Dictionary(Hash table)`
 
+## 8월
+
 [220801](https://github.com/riumr/TIL/tree/main/220801)  `stack` `que`
 
 [220802](https://github.com/riumr/TIL/tree/main/220802) `heap` `set` `1차원 선형자료구조`
@@ -61,4 +63,3 @@
 [220818](https://github.com/riumr/TIL/tree/main/220818)`SQL` `GROUP BY` `문자열 메서드`
 
 [220819](https://github.com/riumr/TIL/tree/main/220819) `SQL` `CASE` `SUBQUERY`
-
