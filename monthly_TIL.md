@@ -68,3 +68,6 @@
 
 [220823](https://github.com/riumr/TIL/blob/bc49b7c5bdc81163e777b25f07fd5bea7caca5a8/220823/220823.md) `ERD diagram`
 
+220824 Django CRUD
+
+220825 Django QuerysetApi
