@@ -68,6 +68,12 @@
 
 [220823](https://github.com/riumr/TIL/blob/bc49b7c5bdc81163e777b25f07fd5bea7caca5a8/220823/220823.md) `ERD diagram`
 
-220824 Django CRUD
+[220824](https://github.com/riumr/TIL/blob/9bc66221e25bb091d3822855caacb22242ae7a73/220824/DB_07.md) `Django` `CRUD`
 
-220825 Django QuerysetApi
+[220825](https://github.com/riumr/TIL/blob/f7720dcfc05142fa60b7d180d6a44444bff30220/220825/DB_08.md) `Django` `QuerysetApi`
+
+[220829](https://github.com/riumr/TIL/blob/b65ede39468a5b99ed0a40e7bb39b158eb4f19f1/220829/%EC%8B%A4%EC%8A%B5.md) `Web` `tag`
+
+[220830](https://github.com/riumr/TIL/tree/main/220830/실습내용) `CSS`
+
+[220831](https://github.com/riumr/TIL/blob/99900d6ea71f9384e11201ad3c3b80bf07616619/220831/%EC%9E%90%EC%8A%B5%EB%82%B4%EC%9A%A9.md) `CSS` `flexbox method`
