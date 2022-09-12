@@ -77,3 +77,7 @@
 [220830](https://github.com/riumr/TIL/tree/main/220830/실습내용) `CSS`
 
 [220831](https://github.com/riumr/TIL/blob/99900d6ea71f9384e11201ad3c3b80bf07616619/220831/%EC%9E%90%EC%8A%B5%EB%82%B4%EC%9A%A9.md) `CSS` `flexbox method`
+
+[220901](https://github.com/riumr/TIL/tree/main/220901/실습) `CSS` `scementic tag`
+
+[220902](https://github.com/riumr/TIL/tree/main/220902/실습) `CSS` `pair programming`
