@@ -385,3 +385,9 @@ python이 객체지향언어라는 점을 배웠다.
 [220908](https://github.com/riumr/TIL/blob/cf9385342069d0d83bd0c4657fe6573ec40e9914/220908/220908.md) `startbootsrap`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220908/실습)
+
+## 220913
+
+`Bootsrap` 을  페어 프로그래밍을 통해 실습했다.
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220913/실습)
