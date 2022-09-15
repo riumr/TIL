@@ -391,3 +391,15 @@ python이 객체지향언어라는 점을 배웠다.
 `Bootsrap` 을  페어 프로그래밍을 통해 실습했다.
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220913/실습)
+
+## 220914
+
+`Bootsrap` 을  페어 프로그래밍을 통해 실습했다.
+
+[실습내용](https://github.com/riumr/riumr.github.io) `favicon`
+
+## 220915
+
+`javascript` 개념 및 기본문법을 학습했다.
+
+[실습내용](https://github.com/riumr/TIL/blob/61c9c756d20ce2a5fb1e1498f43ddd20c2ea2c4b/220915/%EC%9E%90%EC%8A%B5%EB%82%B4%EC%9A%A9.md) `예외처리` 
