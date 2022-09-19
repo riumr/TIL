@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>modal</title>
+  </head>
+  <body>
+    <style>
+      .modalToggle {
+        display: flex;
+        height: 100px;
+        width: 100px;
+        background-color: white;
+        visibility: hidden;
+        justify-content: center;
+      }
+      .activate {
+        visibility: visible;
+      }
+      .gray {
+        background-color: lightgray;
+      }
+    </style>
+    <button>popup</button>
+    <!-- 두번째 요소를 토글할 때는 id와 class를 둘 다 설정하는 게 좋다 -->
+    <p id="modal" class="modalToggle">modal</p>
+    <script>
+      const button = document.querySelector("button");
+      const body = document.querySelector("body");
+      const modal = document.querySelector("#modal");
+
+      button.addEventListener("click", function (e) {
+        body.classList.toggle("gray");
+        modal.classList.toggle("activate");
+      });
+    </script>
+  </body>
+</html>
