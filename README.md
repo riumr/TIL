@@ -410,5 +410,9 @@ python이 객체지향언어라는 점을 배웠다.
 
 [실습내용](https://github.com/riumr/TIL/blob/5b1a298c4f9abffe329ef5a44143eeb7a0b7eded/220916/%EC%9E%90%EC%8A%B5%EB%82%B4%EC%9A%A9.md) `배열 method` `JSON 호출법` `addEventListener option`
 
+## 220919
 
+`javascript` 키워드에 대해 자세히 배웠다.
+
+[학습내용](https://github.com/riumr/TIL/blob/6300e11ed6c7e9844f5264935b46a3644d0246f8/220919/%EC%9E%90%EC%8A%B5.md)
 
