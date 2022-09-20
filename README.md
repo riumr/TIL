@@ -416,3 +416,8 @@ python이 객체지향언어라는 점을 배웠다.
 
 [학습내용](https://github.com/riumr/TIL/blob/6300e11ed6c7e9844f5264935b46a3644d0246f8/220919/%EC%9E%90%EC%8A%B5.md)
 
+## 220929
+
+`javascript` 라이브러리 사용법을 간단하게 배웠다.
+
+[실습내용](https://github.com/riumr/TIL/blob/52bc0185612b330482fc9023535ee025a16d2671/220920/%EC%8B%A4%EC%8A%B5/index.html)
