@@ -414,10 +414,18 @@ python이 객체지향언어라는 점을 배웠다.
 
 `javascript` 키워드에 대해 자세히 배웠다.
 
-[학습내용](https://github.com/riumr/TIL/blob/6300e11ed6c7e9844f5264935b46a3644d0246f8/220919/%EC%9E%90%EC%8A%B5.md)
+[학습내용](https://github.com/riumr/TIL/blob/6300e11ed6c7e9844f5264935b46a3644d0246f8/220919/%EC%9E%90%EC%8A%B5.md) `Event` `함수` `애니메이션`
 
-## 220929
+## 220920
 
 `javascript` 라이브러리 사용법을 간단하게 배웠다.
 
-[실습내용](https://github.com/riumr/TIL/blob/52bc0185612b330482fc9023535ee025a16d2671/220920/%EC%8B%A4%EC%8A%B5/index.html)
+[실습내용](https://github.com/riumr/TIL/blob/52bc0185612b330482fc9023535ee025a16d2671/220920/%EC%8B%A4%EC%8A%B5/index.html) `lodash.js`
+
+## 220921
+
+`server` 관련 개념을 배웠다.
+
+[220921](https://github.com/riumr/TIL/blob/121b6db064762341aa22200740c28fa158078e1d/220921/220921.md) `서버` `클라이언트`
+
+[학습내용](https://github.com/riumr/TIL/blob/121b6db064762341aa22200740c28fa158078e1d/220921/%ED%95%99%EC%8A%B5.md) `IP` `Domain` `클라이언트` `서버` `HTTP` `프레임워크` `동적/정적 웹사이트`
