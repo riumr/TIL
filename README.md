@@ -429,3 +429,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220921](https://github.com/riumr/TIL/blob/121b6db064762341aa22200740c28fa158078e1d/220921/220921.md) `서버` `클라이언트`
 
 [학습내용](https://github.com/riumr/TIL/blob/121b6db064762341aa22200740c28fa158078e1d/220921/%ED%95%99%EC%8A%B5.md) `IP` `Domain` `클라이언트` `서버` `HTTP` `프레임워크` `동적/정적 웹사이트`
+
+## 220922
+
+`Django app` 을 만들었다.
+
+[220922](https://github.com/riumr/TIL/blob/64bb283071c43b17f20b45584da1dc324aee5af0/220922/220922.md)
+
+[실습내용](https://github.com/riumr/TIL/blob/main/220922/실습/django_practice/app_practice/views.py)
