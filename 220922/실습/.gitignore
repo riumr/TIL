@@ -1,0 +1,6 @@
+/practice
+/django_practice/app_practice/migrations
+*.py
+!views.py
+!urls.py
+!settings.py
