@@ -4,20 +4,29 @@
 import sys
 sys.stdin = open('2579.txt')
 
-# DP
-# 계단은 한 번에 한 계단씩 또는 두 계단씩 오를 수 있다.
-a = l[0]
-b = max(l[1], l[2])
-c = l[3]
-d = max(l[4], l[5])
-e = l[6]
-# 연속된 세 개의 계단을 모두 밟아서는 안 된다.
-# 각 단계를 올라갈 때마다 얻을 수 있는 최댓값을 얻어야 한다.
-# 마지막 도착 계단은 반드시 밟아야 한다.
-# 1 : 1
-# 2 : 2+4 or 3+4
-# 3 : 4
-# 4 : 4+5 or 4+6
-# 5 : 7
-# 6 : 7+8 or 7+9
-# 7 : 10
+# 계단의 개수는 300이하이다.
+input = sys.stdin.readline
+stair = [0]*300
+n = int(input())
+
+score = [0]*300  # 점수
+for i in range(n):
+    score[i] = int(input())
+
+# stair[마지막 밟는 계단]
+stair[0] = score[0]
+stair[1] = score[0]+score[1]
+stair[2] = max(score[0], score[1]) + score[2]
+
+
+for i in range(3, n):
+    stair[i] = max(stair[i-3]+score[i-1], stair[i-2])+score[i]
+print(stair[n-1])
+
+# 1 1
+# 2 1 2
+# 3 (1,2) 3
+# 4 #1+3+4 #2+4
+# 5 #2+4+5 #3+5
+# 6 #3+5+6 #4+6
+# 6 1,2,4, 2,3, 2,4, 1,3,5 6
