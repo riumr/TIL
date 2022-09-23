@@ -437,3 +437,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220922](https://github.com/riumr/TIL/blob/64bb283071c43b17f20b45584da1dc324aee5af0/220922/220922.md)
 
 [실습내용](https://github.com/riumr/TIL/blob/main/220922/실습/django_practice/app_practice/views.py)
+
+## 220923
+
+앞으로의 과제를 위한 앱 레이아웃을 작성해봤다.
+
+[220923](https://github.com/riumr/TIL/blob/5da3c1031eb54868ab36f3013d7a983427906c8b/220923/220923.md)
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220923/실습)
