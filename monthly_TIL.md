@@ -38,7 +38,7 @@
 
 [220728](https://github.com/riumr/TIL/tree/main/220728) `Dictionary(Hash table)`
 
-## 8
+## 8월
 
 [220801](https://github.com/riumr/TIL/tree/main/220801)  `stack` `que`
 
@@ -95,3 +95,7 @@
 [220914](https://github.com/riumr/riumr.github.io) `Bootstrap` `pari programming` `favicon`
 
 [220915](https://github.com/riumr/TIL/blob/61c9c756d20ce2a5fb1e1498f43ddd20c2ea2c4b/220915/%EC%9E%90%EC%8A%B5%EB%82%B4%EC%9A%A9.md) `javascript` `예외처리`
+
+[220916]() `javascript` `배열 다루기` `JSON 호출법` `addEventListener option`
+
+[220919]()  `javascript` `Event 목록` `함수 만드는 법` `애니메이션 만들기`
