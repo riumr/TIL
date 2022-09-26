@@ -15,3 +15,4 @@ pip3 install 패키지명 # 패키지 설치
 pip3 freeze > 파일명.txt # 임의의 텍스트 파일 생성
 pip3 install -r 패키지버전 들어있는 텍스트파일 # 패키지들 한번에 설치
 ```
+
