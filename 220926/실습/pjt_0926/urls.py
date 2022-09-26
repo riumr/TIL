@@ -21,5 +21,6 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     path("oddeven/<int:number>", views.oddeven),
     path("caculate/<int:num1>/<int:num2>", views.caculate),
-    path("randompast/", views.randompast),
+    path("randomPast/", views.random_past),
+    path("nameInput/", views.name_input),
 ]

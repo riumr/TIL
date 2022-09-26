@@ -4,9 +4,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>random_past</title>
   </head>
   <body>
-    <p>{{name}}님 당신의 전생은 {{result}}입니다.</p>
+    <form action="/randomPast/" method="GET">
+      <label for="nameInput">이름을 입력하세요</label>
+      <input type="text" id="message" name="message" />
+      <input type="submit" />
+    </form>
   </body>
 </html>

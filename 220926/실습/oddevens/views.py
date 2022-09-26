@@ -27,10 +27,13 @@ def caculate(request, num1, num2):
     return render(request, "caculate.html", context)
 
 
-def randompast(request):
+def random_past(request):
     pasts = ["왕", "귀족", "평민", "노비", "돌", "동물", "식물", "괴물"]
+    name1 = request.GET.get("message")  # get이 아니라 GET을 써야한다.(get은 작동하지 않는다.)
     result = random.choice(pasts)
-    context = {
-        "result": result,
-    }
-    return render(request, "caculate.html", context)
+    context = {"result": result, "name": name1}
+    return render(request, "randomPast.html", context)
+
+
+def name_input(request):
+    return render(request, "nameInput.html")
