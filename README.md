@@ -440,16 +440,24 @@ python이 객체지향언어라는 점을 배웠다.
 
 ## 220923
 
-앞으로의 과제를 위한 앱 레이아웃을 작성해봤다.
+앞으로의 과제를 위한 앱 `레이아웃`을 작성해봤다.
 
 [220923](https://github.com/riumr/TIL/blob/5da3c1031eb54868ab36f3013d7a983427906c8b/220923/220923.md)
 
-[실습내용](https://github.com/riumr/TIL/tree/main/220923/실습)
+[실습내용](https://github.com/riumr/TIL/tree/main/220923/실습) `Figma` `pair project`
 
 ## 220926
 
 `Django` 사용법을 더 배웠다.
 
-[220926](https://github.com/riumr/TIL/blob/6d4f90a60a611d9ed5187e114f6749c06c2c7c8c/220926/220926.md)
+[220926](https://github.com/riumr/TIL/blob/6d4f90a60a611d9ed5187e114f6749c06c2c7c8c/220926/220926.md)  `path parameter` `variable routing` `GET`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220926/실습)
+
+## 220927
+
+`Django` `App url mapping` 방법을 배웠다.
+
+[220927](https://github.com/riumr/TIL/blob/24a4fc8c23f8a59d9ccca4549ec686c6e6465eb2/220927/220927.md)
+
+[실습내용](https://github.com/riumr/TIL/blob/24a4fc8c23f8a59d9ccca4549ec686c6e6465eb2/220927/%EC%8B%A4%EC%8A%B5.md) `Django` `CRUD 재실습`
