@@ -458,6 +458,14 @@ python이 객체지향언어라는 점을 배웠다.
 
 `Django` `App url mapping` 방법을 배웠다.
 
-[220927](https://github.com/riumr/TIL/blob/24a4fc8c23f8a59d9ccca4549ec686c6e6465eb2/220927/220927.md)
+[220927](https://github.com/riumr/TIL/blob/09ee7ea9f3e7b2de15a9a71241ac519847aa31ca/220927/220927.md)
 
-[실습내용](https://github.com/riumr/TIL/blob/24a4fc8c23f8a59d9ccca4549ec686c6e6465eb2/220927/%EC%8B%A4%EC%8A%B5.md) `Django` `CRUD 재실습`
+[실습내용](https://github.com/riumr/TIL/blob/09ee7ea9f3e7b2de15a9a71241ac519847aa31ca/220927/%EC%8B%A4%EC%8A%B5.md) `Django` `CRUD 재실습`   
+
+## 220928
+
+`Django` 로 만든 서비스에 `CRUD` 하는 실습을 했다. 
+
+[220928](https://github.com/riumr/TIL/blob/9310a3651cf095fdebf9297689f67a9cb684609e/220928/220928.md) `MVC 디자인 패턴` `URL namespace`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220928/실습) `CRUD`
