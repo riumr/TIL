@@ -13,11 +13,14 @@ N = int(input())
 A = list(map(int, input().split()))
 
 # 가장 긴 증가하는 부분 수열 : 리스트에서 수가 증가하는 가장 긴 조합
-
+# 수가 증가하는 경우, 임의의 값에 1을 더한다.
 # max함수 활용
 l = [1]*N
 for i in range(1, N):
     for j in range(i):
+        # 두번째 요소부터 처음 요소와 비교해본다.
+        # l[i]가 비교의 기준이 되도락 한다.
         if A[i] > A[j]:
             l[i] = max(l[i], l[j]+1)
+            # 값이 클 때마다 l[i]에 1이 더해진다.
 print(max(l))
