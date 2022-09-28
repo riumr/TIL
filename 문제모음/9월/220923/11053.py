@@ -10,19 +10,14 @@ import sys
 sys.stdin = open("11053.txt")
 
 N = int(input())
-aj = list(map(int, input().split()))
+A = list(map(int, input().split()))
 
 # 가장 긴 증가하는 부분 수열 : 리스트에서 수가 증가하는 가장 긴 조합
-# 수열길이 부분수열
-# 1 1 처음요소
-# 2 2가 1보다 크면 추가, 아니면 처음요소를 2로 바꾸기
-# 3 3이 2보다 크면 추가, 아니면 2를 3으로
-# 4 4이 3보다 크면 추가, 아니면 3을 4로
 
-l = [0]
-l[0] = aj[0]
+# max함수 활용
+l = [1]*N
 for i in range(1, N):
-    l[i] = aj[i+1] if l[i-1] >= aj[i] else l.append(aj[i])
-print(l)
-# l.append(aj[1]) if l[0] < aj[1] else l[0] == aj[1]
-# l.append(aj[2]) if l[1] < aj[2] else l[1] == aj[2]
+    for j in range(i):
+        if A[i] > A[j]:
+            l[i] = max(l[i], l[j]+1)
+print(max(l))
