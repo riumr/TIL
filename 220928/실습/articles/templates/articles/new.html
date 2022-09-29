@@ -1,0 +1,25 @@
+{% extends 'base.html' %} {% block content %}
+<form action="{% url 'articles:create'%}" method="GET" class="m-3">
+  {% csrf_token %}
+  <div class="input-group mb-3">
+    <span class="input-group-text">할 일</span>
+    <input type="text" class="form-control" name="content" />
+  </div>
+  <div class="input-group mb-3">
+    <span class="input-group-text">우선 순위</span>
+    <select name="priority" id="" class="form-select">
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+    </select>
+  </div>
+  <div class="input-group mb-3">
+    <span class="input-group-text">마감 기한</span>
+    <input type="date" class="form-control" name="deadline" />
+  </div>
+  <input type="submit" class="form-control mb-5" placeholder="할 일 추가" />
+</form>
+
+{% endblock %}

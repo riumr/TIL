@@ -1,12 +1,13 @@
 {% extends 'base.html' %} {% block content %}
-<form action="" method="GET" class="m-3">
+<form action="{% url 'articles:create' %}" method="POST" class="m-3">
+  {% csrf_token %}
   <div class="input-group mb-3">
     <span class="input-group-text">할 일</span>
-    <input type="text" class="form-control" />
+    <input type="text" class="form-control" name="content" />
   </div>
   <div class="input-group mb-3">
     <span class="input-group-text">우선 순위</span>
-    <select name="" id="" class="form-select">
+    <select name="priority" id="" class="form-select">
       <option value="1">1</option>
       <option value="2">2</option>
       <option value="3">3</option>
@@ -16,7 +17,7 @@
   </div>
   <div class="input-group mb-3">
     <span class="input-group-text">마감 기한</span>
-    <input type="date" class="form-control" />
+    <input type="date" class="form-control" name="deadline" />
   </div>
   <input type="submit" class="form-control mb-5" placeholder="할 일 추가" />
 </form>
@@ -33,7 +34,21 @@
         <th scope="col">삭제</th>
       </tr>
     </thead>
-    <tbody></tbody>
+    <tbody>
+      {% for i in todo %}
+      <tr>
+        <td>{{i.priority}}</td>
+        <td>{{i.content}}</td>
+        <td>{{i.created_at}}</td>
+        <td>{{i.deadline}}</td>
+        <td>{{sdf}}</td>
+        <td>{{asdf}}</td>
+        <td>
+          <a href="{% url 'articles:delete' i.pk %}" class="">delete</a>
+        </td>
+      </tr>
+      {% endfor%}
+    </tbody>
   </table>
 </div>
 

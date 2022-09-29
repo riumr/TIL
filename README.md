@@ -1,5 +1,7 @@
 # 학습기록
+
 ## 220705
+
 `markdown`과 `git의 개념`에 대해 배웠다.
 
 `typolr` `분산버전관리체계`
@@ -450,7 +452,7 @@ python이 객체지향언어라는 점을 배웠다.
 
 `Django` 사용법을 더 배웠다.
 
-[220926](https://github.com/riumr/TIL/blob/6d4f90a60a611d9ed5187e114f6749c06c2c7c8c/220926/220926.md)  `path parameter` `variable routing` `GET`
+[220926](https://github.com/riumr/TIL/blob/5a933671ea97fd150f6592ab5bdde35a8dbdd325/220926/220926.md)  `path parameter` `variable routing` `GET`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220926/실습)
 
@@ -469,3 +471,9 @@ python이 객체지향언어라는 점을 배웠다.
 [220928](https://github.com/riumr/TIL/blob/9310a3651cf095fdebf9297689f67a9cb684609e/220928/220928.md) `MVC 디자인 패턴` `URL namespace`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220928/실습) `CRUD`
+
+## 220929
+
+`Django` 로 `CRUD`할 수 있는 서비스를 만들었다.
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220928/실습) `CRUD` `전날 작업에서 이어서 진행`
