@@ -3,4 +3,23 @@
 # 부르트포스 # 백트래킹
 
 import sys
-sys.stdin = open('N과 M/15649.15649.txt')
+sys.stdin = open('15649.txt')
+
+# 백트래킹 : 아닌 거 같으면 돌아간다.
+N, M = map(int, input().split())
+
+# 값을 다른 리스트에 저장해놓고 있으면 다음 수로 넘어간다.
+for i in range(1, N):
+    print(i)
+
+# 5 3
+# 1 2 3
+# 1 2 4
+# 1 2 5
+# 2 3 4
+# 2 3 5
+# 3 4 5
+
+# 1
+# 2
+# 3 4 5
