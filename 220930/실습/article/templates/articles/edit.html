@@ -1,0 +1,30 @@
+{% extends 'base.html' %} {% block content %}
+<div class="container mt-5 pt-5">
+  <form action="{% url 'articles:update' review.pk %}" method="GET">
+    <div class="mb-3">
+      <label for="FormControlInput1" class="form-labe fs-4">제목</label>
+      <input
+        type="text"
+        class="form-control"
+        id="FormControlInput1"
+        value="{{review.title}}"
+        name="review_title"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="FormControlTextarea1" class="form-label fs-4">내용</label>
+      <textarea
+        class="form-control"
+        id="FormControlTextarea1"
+        rows="3"
+        name="content"
+      >
+{{review.content}}</textarea
+      >
+    </div>
+    <button type="submit" class="form-control mb-5 fs-4 btn btn-primary">
+      리뷰수정
+    </button>
+  </form>
+</div>
+{% endblock %}

@@ -1,0 +1,33 @@
+{% extends 'base.html' %} {% block content %}
+<div class="mt-5 pt-4 px-5 mx-5">
+  <div class="table m-0">
+    <table class="table">
+      <thead class="table-dark">
+        <tr>
+          <th scope="col">리뷰번호</th>
+          <th scope="col">리뷰제목</th>
+          <th scope="col">작성시간</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for i in review %}
+        <tr>
+          <td>{{i.pk}}</td>
+          <td class="btn btn-light">
+            <a
+              class="text-decoration-none text-dark"
+              href="{% url 'articles:detail' i.pk %}"
+              >{{i.title}}</a
+            >
+          </td>
+          <td>{{i.created_at}}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <p class="mb-1">
+      <a class="btn btn-primary" href="{% url 'articles:new' %}">리뷰작성</a>
+    </p>
+  </div>
+</div>
+{% endblock content %}

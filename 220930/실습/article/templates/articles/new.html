@@ -1,0 +1,27 @@
+{% extends 'base.html' %} {% block content %}
+<div class="container mt-5 pt-5">
+  <form action="{% url 'articles:create'%}" method="GET">
+    <div class="mb-3">
+      <label for="FormControlInput1" class="form-label fs-4">제목</label>
+      <input
+        type="text"
+        class="form-control"
+        id="FormControlInput1"
+        name="review_title"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="FormControlTextarea1" class="form-label fs-4">내용</label>
+      <textarea
+        class="form-control"
+        id="FormControlTextarea1"
+        rows="4"
+        name="content"
+      ></textarea>
+    </div>
+    <button type="submit" class="form-control mb-5 fs-4 btn btn-primary">
+      리뷰 작성
+    </button>
+  </form>
+</div>
+{% endblock %}
