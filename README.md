@@ -477,3 +477,11 @@ python이 객체지향언어라는 점을 배웠다.
 `Django` 로 `CRUD`할 수 있는 서비스를 만들었다.
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220928/실습) `CRUD` `전날 작업에서 이어서 진행`
+
+## 220930
+
+`Django` 로 `게시판` 을 만들었다.
+
+[220930](https://github.com/riumr/TIL/blob/6d1d4c2dd00677410acf9072c695f01aa8a39d78/220930/220930.md) `Git mirror`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/220930/실습) `CRUD` 
