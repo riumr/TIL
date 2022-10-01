@@ -99,3 +99,7 @@
 [220916]() `javascript` `배열 다루기` `JSON 호출법` `addEventListener option`
 
 [220919]()  `javascript` `Event 목록` `함수 만드는 법` `애니메이션 만들기`
+
+[220920](https://github.com/riumr/TIL/blob/52bc0185612b330482fc9023535ee025a16d2671/220920/%EC%8B%A4%EC%8A%B5/index.html) `javascript` `라이브러리` `lodash.js`
+
+[220921](https://github.com/riumr/TIL/blob/121b6db064762341aa22200740c28fa158078e1d/220921/%ED%95%99%EC%8A%B5.md) `server` `IP` `Domain` `클라이언트` `서버` `HTTP` `프레임워크` `동적/정적 웹사이트`
