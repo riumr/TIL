@@ -1,3 +1,2 @@
-requirements.txt
 /venv
-*.sqlite3
+secret_key.txt
