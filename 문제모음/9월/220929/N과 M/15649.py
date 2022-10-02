@@ -8,9 +8,11 @@ sys.stdin = open('15649.txt')
 # 백트래킹 : 아닌 거 같으면 돌아간다.
 N, M = map(int, input().split())
 
-# 값을 다른 리스트에 저장해놓고 있으면 다음 수로 넘어간다.
-for i in range(1, N):
-    print(i)
+# 값을 다른 리스트에 저장해놓고, 있으면 다음 수로 넘어가기
+
+for i in range(1, N+1):
+    l.append(i)
+
 
 # 5 3
 # 1 2 3
