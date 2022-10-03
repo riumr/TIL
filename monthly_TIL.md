@@ -107,3 +107,7 @@
 [220922](https://github.com/riumr/TIL/tree/main/220922/실습) `Django app` `index`
 
 [220923](https://github.com/riumr/TIL/tree/main/220923/실습) `app layout` `Figma`
+
+[220926](https://github.com/riumr/TIL/blob/5a933671ea97fd150f6592ab5bdde35a8dbdd325/220926/220926.md) `Django` `path parameter` `GET`
+
+[220927](https://github.com/riumr/TIL/blob/09ee7ea9f3e7b2de15a9a71241ac519847aa31ca/220927/220927.md) `Django` `App url mapping`
