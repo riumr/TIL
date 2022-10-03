@@ -10,10 +10,19 @@ N, M = map(int, input().split())
 
 # 값을 다른 리스트에 저장해놓고, 있으면 다음 수로 넘어가기
 
+# 1부터 N까지 자연수의 수열을 만든다
+l = []
 for i in range(1, N+1):
     l.append(i)
 
+# 값을 다른 리스트에 저장하면서 이쪽 리스트에서도 출력한다
 
+for i in range(N):
+    for j in range(1, N):
+        for k in range(2, N):
+            print(l[i], l[j], l[k])
+# l[0], l[1], l[2]
+# l[0], l[1], l[3]
 # 5 3
 # 1 2 3
 # 1 2 4
@@ -21,6 +30,11 @@ for i in range(1, N+1):
 # 2 3 4
 # 2 3 5
 # 3 4 5
+
+
+if len(l) % M == 0:
+    print(l)
+    i += 1
 
 # 1
 # 2
