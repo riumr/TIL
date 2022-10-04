@@ -485,3 +485,11 @@ python이 객체지향언어라는 점을 배웠다.
 [220930](https://github.com/riumr/TIL/blob/6d1d4c2dd00677410acf9072c695f01aa8a39d78/220930/220930.md) `Git mirror`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/220930/실습) `CRUD` 
+
+## 221004
+
+`Django CRUD` 재실습을 하고, `Django Form` 을 배웠다.
+
+[221004](https://github.com/riumr/TIL/blob/3c510f1c43e4eb4ecab58ef375c6dfc64c6378e6/221004/221004.md) `Django Form` `Django의 정의`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221004/실습) `형태만 있는 게시판`
