@@ -15,12 +15,7 @@ l = []
 for i in range(1, N+1):
     l.append(i)
 
-# 값을 다른 리스트에 저장하면서 이쪽 리스트에서도 출력한다
 
-for i in range(N):
-    for j in range(1, N):
-        for k in range(2, N):
-            print(l[i], l[j], l[k])
 # l[0], l[1], l[2]
 # l[0], l[1], l[3]
 # 5 3
