@@ -1,0 +1,10 @@
+{% extends 'base.html' %} {% block content %} {% for i in article %}
+<p>{{i.pk}}</p>
+<p>{{i.title}}</p>
+<p>{{i.content}}</p>
+<p>{{i.created_at}}</p>
+<a href="{% url 'articles:edit' i.pk %}">수정하기</a>
+<a href="{% url 'articles:delete' i.pk %}">삭제하기</a>
+<hr />
+{% endfor %}<a href="{% url 'articles:new' %}">입력하기</a>
+{% endblock content %}

@@ -1,0 +1,16 @@
+{% extends 'base.html' %} {% block content %}
+<form action="{% url 'articles:update' article.pk %}" method="GET">
+  <div>
+    <label for="title">Title</label>
+    <input type="text" name="title" value="{{article.title}}" />
+  </div>
+  <div>
+    <label for="content">contents</label>
+    <textarea type="text" name="content" cols="30" rows="3">
+{{article.content}}</textarea
+    >
+  </div>
+  <button type="sumbit" value="submit">submit</button>
+  <a href="{% url 'articles:index' %}">목록</a>
+</form>
+{% endblock content %}
