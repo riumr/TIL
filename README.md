@@ -493,3 +493,11 @@ python이 객체지향언어라는 점을 배웠다.
 [221004](https://github.com/riumr/TIL/blob/3c510f1c43e4eb4ecab58ef375c6dfc64c6378e6/221004/221004.md) `Django Form` `Django의 정의`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221004/실습) `형태만 있는 게시판`
+
+## 221005
+
+`Django CRUD` 재실습을 하고, `Django 정적경로` 와 `admin` 을  배웠다.
+
+[221005](https://github.com/riumr/TIL/blob/2a9bb15eca96774038e1199e3939ea0be3a44d6b/221005/221005.md) `static/` `admin`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221005/실습)
