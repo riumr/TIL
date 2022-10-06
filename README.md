@@ -501,3 +501,11 @@ python이 객체지향언어라는 점을 배웠다.
 [221005](https://github.com/riumr/TIL/blob/2a9bb15eca96774038e1199e3939ea0be3a44d6b/221005/221005.md) `static/` `admin`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221005/실습)
+
+## 221006
+
+`Django CRUD` 실습을 했다.
+
+[221006](https://github.com/riumr/TIL/blob/d4f882b6455d5d5f08bdc9b26273ff0944f01e77/221006/221006.md) `request 데이터 표시형식 설정`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221006/실습) `Djagno Boostrap` `Django form 사용`
