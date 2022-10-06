@@ -3,17 +3,28 @@
 # 부르트포스 # 백트래킹
 
 import sys
-sys.stdin = open('15649.txt')
+
+sys.stdin = open("15649.txt")
 
 # 백트래킹 : 아닌 거 같으면 돌아간다.
 N, M = map(int, input().split())
+l = []
+visited = [False] * (N + 1)
 
 # 값을 다른 리스트에 저장해놓고, 있으면 다음 수로 넘어가기
 
 # 1부터 N까지 자연수의 수열을 만든다
-l = []
-for i in range(1, N+1):
-    l.append(i)
+for i in range(1, N + 1):
+    # 판단 리스트가 false면 true로 바꾸고, true면 계속 진행한다.
+    if visited[i] == False:
+        visited[i] = True
+        l.append(i)
+        if len(l) == M:
+            print(l)
+            l.pop()
+    else:
+        continue
+    # 리스트 길이가 M이면 출력한다
 
 
 # l[0], l[1], l[2]
@@ -26,10 +37,6 @@ for i in range(1, N+1):
 # 2 3 5
 # 3 4 5
 
-
-if len(l) % M == 0:
-    print(l)
-    i += 1
 
 # 1
 # 2
