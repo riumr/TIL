@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container my-5 p-5">
+    <a class='btn btn-primary float-end' href="{% url 'review:create' %}">write</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">PK</th>
+                <th scope="col">Title</th>
+                <th scope="col">movie_name</th>
+                <th scope="col">created_at</th>
+            </tr>
+        </thead>
+    <tbody>
+    {% for i in review %}
+      <tr>
+        <th scope="row">{{i.pk}}</th>
+        <td><a href="{% url 'review:detail' i.pk %}">{{i.title}}</a></td>
+        <td>{{i.movie_name}}</td>
+        <td>{{i.created_at}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock content %}

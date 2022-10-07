@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container my-5 py-5 d-flex justify-content-center">
+    <div>
+        <h1>{{ review.title }}</h1> 
+        <p>{{ review.content }}</p>
+        <p class="mb-1">created : {{ review.created_at}}</p>
+        <p>updated : {{ review.updated_at}}</p>        
+        <a class='btn btn-primary' href="{% url 'review:update' review.pk %}">edit</a>
+        <a class='btn btn-primary' href="{% url 'review:delete' review.pk %}">delete</a>
+        <a class='btn btn-primary' href="{% url 'review:index' %}">List</a>
+    </div>
+</div>
+{% endblock content %}
