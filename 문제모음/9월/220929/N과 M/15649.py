@@ -9,24 +9,26 @@ sys.stdin = open("15649.txt")
 # 백트래킹 : 아닌 거 같으면 돌아간다.
 N, M = map(int, input().split())
 l = []
-visited = [False] * (N + 1)
-
-# 1부터 N까지 자연수 중에서
-def collect(N, M):
+# 1. 길이가 M이면 출력한다.
+def collect():
+    if len(l) == M:
+        print(" ".join(map(str, l)))
+    # 2. 1에서 N까지 추가하도록 한다.
     for i in range(1, N + 1):
-        # M개를 고른다.
-        l.append(i)
-        visited[i - 1] = True  # 중복없이
-        if len(l) == M:
-            print(l)
+        if i not in l:
+            l.append(i)
+            # 3. # 1 # 2를 반복한다. 반복문과 재귀 중 재귀가 더 간결할 거 같다.
+            collect()
             l.pop()
 
 
-collect(N, M)
+collect()
 # 5 3
 # 1 2 3
 # 1 2 4
 # 1 2 5
-# 2 3 4
-# 2 3 5
-# 3 4 5
+# 1 3 4
+# 1 3 5
+# . . .
+
+# 진행
