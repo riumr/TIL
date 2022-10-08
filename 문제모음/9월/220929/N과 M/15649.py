@@ -11,33 +11,22 @@ N, M = map(int, input().split())
 l = []
 visited = [False] * (N + 1)
 
-# 값을 다른 리스트에 저장해놓고, 있으면 다음 수로 넘어가기
-
-# 1부터 N까지 자연수의 수열을 만든다
-for i in range(1, N + 1):
-    # 판단 리스트가 false면 true로 바꾸고, true면 계속 진행한다.
-    if visited[i] == False:
-        visited[i] = True
+# 1부터 N까지 자연수 중에서
+def collect(N, M):
+    for i in range(1, N + 1):
+        # M개를 고른다.
         l.append(i)
+        visited[i - 1] = True  # 중복없이
         if len(l) == M:
             print(l)
             l.pop()
-    else:
-        continue
-    # 리스트 길이가 M이면 출력한다
 
 
-# l[0], l[1], l[2]
-# l[0], l[1], l[3]
+collect(N, M)
 # 5 3
 # 1 2 3
 # 1 2 4
 # 1 2 5
 # 2 3 4
 # 2 3 5
-# 3 4 5
-
-
-# 1
-# 2
 # 3 4 5

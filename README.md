@@ -470,13 +470,13 @@ python이 객체지향언어라는 점을 배웠다.
 
 [220928](https://github.com/riumr/TIL/blob/9310a3651cf095fdebf9297689f67a9cb684609e/220928/220928.md) `MVC 디자인 패턴` `URL namespace`
 
-[실습내용](https://github.com/riumr/TIL/tree/main/220928/실습) `CRUD`
+[실습내용](https://github.com/riumr/TIL/tree/main/220929/todo) `CRUD`
 
 ## 220929
 
 `Django` 로 `CRUD`할 수 있는 서비스를 만들었다.
 
-[실습내용](https://github.com/riumr/TIL/tree/main/220928/실습) `CRUD` `전날 작업에서 이어서 진행`
+[실습내용](https://github.com/riumr/TIL/tree/main/220929/todo) `CRUD` `전날 작업에서 이어서 진행`
 
 ## 220930
 

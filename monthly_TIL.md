@@ -111,3 +111,7 @@
 [220926](https://github.com/riumr/TIL/blob/5a933671ea97fd150f6592ab5bdde35a8dbdd325/220926/220926.md) `Django` `path parameter` `GET`
 
 [220927](https://github.com/riumr/TIL/blob/09ee7ea9f3e7b2de15a9a71241ac519847aa31ca/220927/220927.md) `Django` `App url mapping`
+
+[220928](https://github.com/riumr/TIL/blob/9310a3651cf095fdebf9297689f67a9cb684609e/220928/220928.md) `Django` `URL namespace`
+
+[220929](https://github.com/riumr/TIL/tree/main/220929/todo) `Django` `CRUD`
