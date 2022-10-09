@@ -115,3 +115,7 @@
 [220928](https://github.com/riumr/TIL/blob/9310a3651cf095fdebf9297689f67a9cb684609e/220928/220928.md) `Django` `URL namespace`
 
 [220929](https://github.com/riumr/TIL/tree/main/220929/todo) `Django` `CRUD`
+
+[220930](https://github.com/riumr/TIL/tree/main/220930/실습) `Django` `CRUD`
+
+[221004](https://github.com/riumr/TIL/tree/main/221004/실습) `Django` `CRUD` `Django Form`
