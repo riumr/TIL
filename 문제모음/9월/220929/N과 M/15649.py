@@ -19,6 +19,7 @@ def collect():
             l.append(i)
             # 3. # 1 # 2를 반복한다. 반복문과 재귀 중 재귀가 더 간결할 거 같다.
             collect()
+            # 중간에 collect 함수로 이동해 pop이 실행되지 않는다.
             l.pop()
 
 
@@ -32,3 +33,9 @@ collect()
 # . . .
 
 # 진행
+# for 문
+# 1 append, if, 2 append, if, 3 append, if, print
+# 4 append, if, 5 append, if, none if, pop 1234
+# pop 123
+# pop 12
+#
