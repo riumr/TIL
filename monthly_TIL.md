@@ -119,3 +119,7 @@
 [220930](https://github.com/riumr/TIL/tree/main/220930/실습) `Django` `CRUD`
 
 [221004](https://github.com/riumr/TIL/tree/main/221004/실습) `Django` `CRUD` `Django Form`
+
+[221005](https://github.com/riumr/TIL/blob/2a9bb15eca96774038e1199e3939ea0be3a44d6b/221005/221005.md) `Django` `static/` `admin` 
+
+[221006](https://github.com/riumr/TIL/tree/main/221006/실습) `Django Bootstrap` `Django form`
