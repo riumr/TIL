@@ -1,4 +1,9 @@
+<!-- 회원목록 -->
 {% extends 'base.html' %}
 {% block content %}
-<h1>Hi</h1>
+{% for i in user %}
+<p>{{i.pk}}</p>
+<p><a href="{% url 'accounts:detail' i.pk %}">{{i.username}}</a></p>
+<p>{{i.email}}</p>
+{% endfor%}
 {% endblock content %}

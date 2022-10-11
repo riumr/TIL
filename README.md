@@ -515,3 +515,11 @@ python이 객체지향언어라는 점을 배웠다.
 `Django CRUD` 실습을 했다.
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221007/실습)
+
+## 221011
+
+`Django User Model` 를 배우고 실습했다.
+
+[221011](https://github.com/riumr/TIL/blob/5aafda3150243c77d7c2fc3629d8b20f29a33f82/221011/221011.md) `Django Auth` `권한부여` `유저인증` `Django 내장 클래스`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221011/실습) 
