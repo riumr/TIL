@@ -49,14 +49,14 @@ Django Auth를 활용한 회원가입이 가능한 서비스를 개발합니다.
 
 - `GET` http://127.0.0.1:8000/accounts/signup/
 - 회원가입 폼 ****
-- ![Untitled 1](README.assets/Untitled 1.png)
+- ![Untitled 1](README.assets/Untitled 1-5463866.png)
 
 회원 목록 페이지
 
 - `GET` http://127.0.0.1:8000/accounts/
 - 회원 목록 테이블
 - **username** 클릭 시 해당 회원 조회 페이지(프로필 페이지)로 이동
-- ![Untitled 2](README.assets/Untitled 2.png)
+- ![Untitled 2](README.assets/Untitled 2-5463880.png)
 
 회원 조회 페이지(프로필 페이지)
 
