@@ -9,18 +9,19 @@ sys.stdin = open("15649.txt")
 # 백트래킹 : 아닌 거 같으면 돌아간다.
 N, M = map(int, input().split())
 l = []
-# 1. 길이가 M이면 출력한다.
+
+
 def collect():
+    # 길이가 M이면 값을 반환해야한다.
     if len(l) == M:
         print(" ".join(map(str, l)))
-    # 2. 1에서 N까지 추가하도록 한다.
+    # 1부터 N까지 값을 넣어본다.
     for i in range(1, N + 1):
         if i not in l:
             l.append(i)
-            # 3. # 1 # 2를 반복한다. 반복문과 재귀 중 재귀가 더 간결할 거 같다.
             collect()
-            # 중간에 collect 함수로 이동해 pop이 실행되지 않는다.
-            # collect 함수에 i가 저장된다.
+            # 넣을 값이 없으면 pop을 실행할 수 있다.
+            # 중간에 넣기를 멈췄던 값이 있으면 다시 넣는다.
             l.pop()
 
 
@@ -34,9 +35,11 @@ collect()
 # . . .
 
 # 진행
-# for 문
-# 1 append, if, 2 append, if, 3 append, if, print
-# 4 append, if, 5 append, if, 1 none if, pop 1234
-# 1 pop 123
-# pop 12
+# 1
+# 2
+# 3 print
+# 4
+# 5
+# -5
+# -4
 #
