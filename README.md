@@ -520,6 +520,14 @@ python이 객체지향언어라는 점을 배웠다.
 
 `Django User Model` 를 배우고 실습했다.
 
-[221011](https://github.com/riumr/TIL/blob/5aafda3150243c77d7c2fc3629d8b20f29a33f82/221011/221011.md) `Django Auth` `권한부여` `유저인증` `Django 내장 클래스`
+[221011](https://github.com/riumr/TIL/blob/5aafda3150243c77d7c2fc3629d8b20f29a33f82/221011/221011.md) `회원가입` `Django Auth` `권한부여` `유저인증` `Django 내장 클래스`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221011/실습) 
+
+## 221012
+
+`Django Login` 구현 과정 전반에 대해 학습했다.
+
+[221012](https://github.com/riumr/TIL/blob/ae70479f258a18003768cf1e1a18f0556e270ece/221012/221012.md) `Django Auth` `HttpRequest객체` `User 객체` `쿠키`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221012/실습)

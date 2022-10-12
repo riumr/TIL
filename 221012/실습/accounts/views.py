@@ -1,5 +1,8 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
+from django.contrib.auth import login as auth_login
+from django.contrib.auth import logout as auth_logout
+from django.contrib.auth.decorators import login_required
 from .forms import CustomUserCreationForm
 from .models import User
 
@@ -10,6 +13,7 @@ def home(request):
     return render(request, "accounts/home.html")
 
 
+@login_required
 def index(request):
     user = User.objects.all()
     context = {
@@ -33,13 +37,26 @@ def signup(request):
 
 
 def login(request):
-    return render(request, "accounts/login.html")
+    if request.method == "POST":
+        form = AuthenticationForm(request, data=request.POST)
+        if form.is_valid():
+            auth_login(request, form.get_user())
+            return redirect("accounts:index")
+    else:
+        form = AuthenticationForm()
+    context = {
+        "form": form,
+    }
+    return render(request, "accounts/login.html", context)
 
 
+@login_required
 def logout(request):
-    return render(request, "accounts/logout.html")
+    auth_logout(request)
+    return redirect("home")
 
 
+@login_required
 def detail(request, user_pk):
     user = User.objects.get(id=user_pk)
     context = {
