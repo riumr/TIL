@@ -1,9 +1,11 @@
 from django.shortcuts import render, redirect
-from django.contrib.auth.forms import AuthenticationForm
+from django.contrib.auth.forms import AuthenticationForm, PasswordChangeForm
 from django.contrib.auth import login as auth_login
 from django.contrib.auth import logout as auth_logout
+from django.contrib.auth import update_session_auth_hash
+from django.contrib.auth.decorators import login_required
 from .models import User
-from .forms import CustomUserCreationForm
+from .forms import CustomUserCreationForm, CustomUserChangeForm
 
 # Create your views here.
 
@@ -16,7 +18,8 @@ def signin(request):
     if request.method == "POST":
         form = CustomUserCreationForm(request.POST)
         if form.is_valid():
-            form.save()
+            user = form.save()
+            auth_login(request, user)
             return redirect("accounts:index")
     else:
         form = CustomUserCreationForm()
@@ -61,5 +64,36 @@ def detail(request, user_pk):
     return render(request, "accounts/detail.html", context)
 
 
-def update(request, user_pk):
-    return render(request, "accounts/update.html")
+def update(request):
+    if request.method == "POST":
+        form = CustomUserChangeForm(request.POST, instace=request.user)
+        if form.is_valid():
+            form.save()
+            return redirect("accounts:index")
+    else:
+        form = CustomUserChangeForm(instance=request.user)
+    context = {
+        "form": form,
+    }
+    return render(request, "accounts/update.html", context)
+
+
+def password_change(request):
+    if request.method == "POST":
+        form = PasswordChangeForm(request.user, request.POST)
+        if form.is_valid():
+            form.save()
+            update_session_auth_hash(request, form.user)
+            return redirect("home")
+    else:
+        form = PasswordChangeForm(request.user)
+    context = {
+        "form": form,
+    }
+    return render(request, "accounts/password_change.html", context)
+
+
+def delete(request):
+    request.user.delete()
+    auth_logout(request)
+    return redirect("home")

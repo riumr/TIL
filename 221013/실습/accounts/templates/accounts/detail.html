@@ -1,5 +1,7 @@
 {% extends 'base.html' %}
 {% block content %}
 <p>{{user.username}}</p>
+<button><a href="{% url 'accounts:update' %}">회원정보수정</a></button>
+<button><a href="{% url 'accounts:password_change' %}">비밀번호변경</a></button>
 <button><a href="{% url 'accounts:index' %}">list</a></button>
 {% endblock content %}

@@ -531,3 +531,11 @@ python이 객체지향언어라는 점을 배웠다.
 [221012](https://github.com/riumr/TIL/blob/ae70479f258a18003768cf1e1a18f0556e270ece/221012/221012.md) `Django Auth` `HttpRequest객체` `User 객체` `쿠키`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221012/실습)
+
+## 221013
+
+`Django Login 정보변경` 구현법을 배웠다.
+
+[221013]() `회원정보변경` `회원탈퇴`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221013/실습)
