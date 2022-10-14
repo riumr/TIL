@@ -544,6 +544,6 @@ python이 객체지향언어라는 점을 배웠다.
 
 `git branch` 를 협업에 사용하는 법을 익혔다.
 
-[221014]()
+[221014](https://github.com/riumr/TIL/blob/a6d1ee30fdfd826de150c1bb41e7d5c7886dc343/221014/221014.md) `기본 설정`
 
-[실습내용]()
+[실습내용](https://github.com/riumr/branch_practice) 
