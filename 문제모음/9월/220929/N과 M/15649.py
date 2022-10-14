@@ -21,7 +21,6 @@ def collect():
             l.append(i)
             collect()
             # 넣을 값이 없으면 pop을 실행할 수 있다.
-            # 중간에 넣기를 멈췄던 값이 있으면 다시 넣는다.
             l.pop()
 
 
@@ -35,11 +34,17 @@ collect()
 # . . .
 
 # 진행
-# 1
-# 2
-# 3 print
-# 4
-# 5
-# -5
-# -4
-#
+# 1 collect()
+# 2 collect()
+# 3 collect() print
+# 4 collect()
+# 5 collect() 12345
+# none pop 1234
+# none pop 123
+# 5 collect() 1235
+# 4 collect() 12354
+# none pop 1235
+# none pop 123
+# none pop 12
+# 4 collect() 124
+# 3 collect() 1243
