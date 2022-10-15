@@ -123,3 +123,7 @@
 [221005](https://github.com/riumr/TIL/blob/2a9bb15eca96774038e1199e3939ea0be3a44d6b/221005/221005.md) `Django` `static/` `admin` 
 
 [221006](https://github.com/riumr/TIL/tree/main/221006/실습) `Django Bootstrap` `Django form`
+
+[221007](https://github.com/riumr/TIL/tree/main/221007/실습) `Django` `CRUD`
+
+[221011](https://github.com/riumr/TIL/blob/5aafda3150243c77d7c2fc3629d8b20f29a33f82/221011/221011.md) `Django User Model` `회원가입`

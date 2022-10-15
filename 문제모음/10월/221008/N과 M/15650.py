@@ -11,7 +11,7 @@ N, M = map(int, input().split())
 l = []
 # M개를 고른다.
 def backtracking():
-    if len(l) == M:
+    if len(l) == M and l == sorted(l):
         print(l)
     # 오름차순이다. ->
     for i in range(1, N + 1):
