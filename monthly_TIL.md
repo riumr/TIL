@@ -127,3 +127,7 @@
 [221007](https://github.com/riumr/TIL/tree/main/221007/실습) `Django` `CRUD`
 
 [221011](https://github.com/riumr/TIL/blob/5aafda3150243c77d7c2fc3629d8b20f29a33f82/221011/221011.md) `Django User Model` `회원가입`
+
+[221012](https://github.com/riumr/TIL/blob/ae70479f258a18003768cf1e1a18f0556e270ece/221012/221012.md)`Django Auth` `Login` 
+
+[221013](https://github.com/riumr/TIL/tree/main/221013/실습) `Django` `회원정보변경`
