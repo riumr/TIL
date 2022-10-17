@@ -547,3 +547,11 @@ python이 객체지향언어라는 점을 배웠다.
 [221014](https://github.com/riumr/TIL/blob/a6d1ee30fdfd826de150c1bb41e7d5c7886dc343/221014/221014.md) `기본 설정`
 
 [실습내용](https://github.com/riumr/branch_practice) 
+
+## 221017
+
+`Django`에서 이미지를 업로드하고 수정하는 법을 배웠다. 
+
+[221017]() `pillow library` `Django Imagekit Library`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221017/실습)
