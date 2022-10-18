@@ -555,3 +555,11 @@ python이 객체지향언어라는 점을 배웠다.
 [221017](https://github.com/riumr/TIL/blob/efb9236c6475054507d622e2a2fd781761b7549a/221017/221017.md) `pillow library` `Django Imagekit Library`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221017/실습)
+
+## 221018
+
+`Django`로 댓글기능을 구현하는 법을 배웠다.
+
+[221018](https://github.com/riumr/TIL/blob/66be4c1be41c3c7cbaef48ea7e4701af5f7db6d1/221018/221018.md) `Foreign key`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221018/실습)
