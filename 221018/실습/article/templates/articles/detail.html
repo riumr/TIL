@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+<ul>
+    {% for i in comments %}
+        <li>{{i.content}}</li>
+        <form action="{% url 'article:comments_delete' article.pk comment.pk %}" method="POST">
+            {% csrf_token %}
+            <button type="submit" value="DELETE">delete</button>
+        </form>
+    {% endfor %}
+</ul>
+<form action="{% url 'article:comments_create' article.pk %}" method="POST">
+    {% csrf_token %}
+    {{ comment_form }}
+    <button type="submit">submit</button>
+</form>
+{% endblock content %}
