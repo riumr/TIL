@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+{% block content %}
+{% for i in article %}
+<p>{{i.pk}}</p>
+<p><a href="{% url 'accounts:profile' user_id %}">{{i.user}}</a></p>
+<p><a href="{% url 'article:detail' i.pk %}">{{i.title}}</a></p>
+{% endfor %}
+{% endblock content %}
