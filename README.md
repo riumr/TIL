@@ -563,3 +563,12 @@ python이 객체지향언어라는 점을 배웠다.
 [221018](https://github.com/riumr/TIL/blob/66be4c1be41c3c7cbaef48ea7e4701af5f7db6d1/221018/221018.md) `Foreign key`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221018/실습)
+
+## 221019
+
+`Django`로 유저별 게시글을 구현하는 법을 배웠다.
+
+[221019](https://github.com/riumr/TIL/blob/175f6f30b254a2e3a4bc1c4136289770d4e5cfcd/221019/221019.md)
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221019/실습)
+
