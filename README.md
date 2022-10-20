@@ -572,3 +572,8 @@ python이 객체지향언어라는 점을 배웠다.
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221019/실습)
 
+## 221020
+
+`게시판`, `댓글기능`, `회원관리` 를 구현하는 실습을 했다.
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221020/실습)
