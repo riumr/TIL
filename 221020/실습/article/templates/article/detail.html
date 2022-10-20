@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+<p>{{article.content}}</p>
+<p>{{comments|length}}</p>
+<h4>comments</h4>
+{% for i in comments %}
+<p>{{i.user}} : {{i.content}}</p>
+<a href="{% url 'article:comments_delete' article.pk i.pk %}">delete</a>
+{% empty %}
+<p>no refly</p>
+{% endfor %}
+<form action="{% url 'article:comments_create' article.pk %}" method="POST">
+    {% csrf_token %}
+    {{ commentForm }}
+    <button type="submit">submit</button>
+</form>
+<a href="{% url 'article:index' %}">index</a>
+{% endblock content %}
