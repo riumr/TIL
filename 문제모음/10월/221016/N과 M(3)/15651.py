@@ -15,7 +15,7 @@ l = []
 
 def overlapped():
     if len(l) == M:
-        print(l)
+        print(" ".join(map(str, l)))
         return  # 재귀오류가 발생하다가 return을 추가하니까 해결됐다.
         # 같은 수를 여러번 골라도 된다.
     for i in range(1, N + 1):
