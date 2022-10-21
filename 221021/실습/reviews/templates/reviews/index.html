@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %}
+{% for i in review %}
+<p>{{i.pk}}</p>
+<p>{{i.user}}</p>
+<p><a href="{% url 'reviews:detail' i.pk %}">{{i.title}}</a></p>
+<p>{{i.created_at}}</p>
+{% endfor %}
+{% endblock content %}
