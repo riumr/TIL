@@ -131,3 +131,7 @@
 [221012](https://github.com/riumr/TIL/blob/ae70479f258a18003768cf1e1a18f0556e270ece/221012/221012.md)`Django Auth` `Login` 
 
 [221013](https://github.com/riumr/TIL/tree/main/221013/실습) `Django` `회원정보변경`
+
+[221014](https://github.com/riumr/TIL/blob/a6d1ee30fdfd826de150c1bb41e7d5c7886dc343/221014/221014.md) `Git branch 협업 기본 설정`
+
+[221017](https://github.com/riumr/TIL/tree/main/221017/실습) `Django` `Image` `Pillow`
