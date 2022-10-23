@@ -135,3 +135,7 @@
 [221014](https://github.com/riumr/TIL/blob/a6d1ee30fdfd826de150c1bb41e7d5c7886dc343/221014/221014.md) `Git branch 협업 기본 설정`
 
 [221017](https://github.com/riumr/TIL/tree/main/221017/실습) `Django` `Image` `Pillow`
+
+[221018](https://github.com/riumr/TIL/tree/main/221018/실습) `Django` `댓글기능` `ForeignKey`
+
+[221019](https://github.com/riumr/TIL/tree/main/221019/실습) `Django`  `유저식별` `AUTH_USER_MODEL`
