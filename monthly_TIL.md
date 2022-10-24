@@ -78,6 +78,8 @@
 
 [220831](https://github.com/riumr/TIL/blob/99900d6ea71f9384e11201ad3c3b80bf07616619/220831/%EC%9E%90%EC%8A%B5%EB%82%B4%EC%9A%A9.md) `CSS` `flexbox method`
 
+## 9월
+
 [220901](https://github.com/riumr/TIL/tree/main/220901/실습) `CSS` `scementic tag`
 
 [220902](https://github.com/riumr/TIL/tree/main/220902/실습) `CSS` `pair programming`
@@ -128,7 +130,7 @@
 
 [221011](https://github.com/riumr/TIL/blob/5aafda3150243c77d7c2fc3629d8b20f29a33f82/221011/221011.md) `Django User Model` `회원가입`
 
-[221012](https://github.com/riumr/TIL/blob/ae70479f258a18003768cf1e1a18f0556e270ece/221012/221012.md)`Django Auth` `Login` 
+[221012](https://github.com/riumr/TIL/blob/ae70479f258a18003768cf1e1a18f0556e270ece/221012/221012.md) `Django Auth` `Login` 
 
 [221013](https://github.com/riumr/TIL/tree/main/221013/실습) `Django` `회원정보변경`
 

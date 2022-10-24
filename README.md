@@ -583,3 +583,11 @@ python이 객체지향언어라는 점을 배웠다.
 다양한 기능이 있는 `게시판`을 구현하는 실습을 했다.
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221020/실습)
+
+## 221024
+
+`좋아요` 기능을 구현하는 실습을 했다.
+
+[221024](https://github.com/riumr/TIL/blob/3efebb5a799729a0e5eb4b3a85d506b792379aee/221024/221024.md) `프로젝트 계획 공지`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221020/실습) `ManyToMany Field`
