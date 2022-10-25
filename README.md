@@ -582,7 +582,7 @@ python이 객체지향언어라는 점을 배웠다.
 
 다양한 기능이 있는 `게시판`을 구현하는 실습을 했다.
 
-[실습내용](https://github.com/riumr/TIL/tree/main/221020/실습)
+[실습내용](https://github.com/riumr/TIL/tree/main/221021/실습)
 
 ## 221024
 
@@ -590,4 +590,10 @@ python이 객체지향언어라는 점을 배웠다.
 
 [221024](https://github.com/riumr/TIL/blob/3efebb5a799729a0e5eb4b3a85d506b792379aee/221024/221024.md) `프로젝트 계획 공지`
 
-[실습내용](https://github.com/riumr/TIL/tree/main/221020/실습) `ManyToMany Field`
+[실습내용](https://github.com/riumr/TIL/tree/main/221024/실습)  `1:M` `ManyToMany Field`
+
+## 221025
+
+[221025](https://github.com/riumr/TIL/blob/b17d011f8b84beedd9986146f0bfa65f838ef8bd/221025/221025.md) `M:N` `ManyToMany symmetrical`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221025/실습) `프로필 팔로잉 기능`

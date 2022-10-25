@@ -5,5 +5,5 @@ app_name = "accounts"
 urlpatterns = [
     path("", views.index, name="index"),
     path("profile/<username>", views.profile, name="profile"),
-    path("<int:pk>/follow", views.follow, name="follow"),
+    path("<int:user_pk>/follow", views.follow, name="follow"),
 ]

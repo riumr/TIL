@@ -13,9 +13,9 @@ def profile(request, username):
     return render(request, "accounts/profile.html", context)
 
 
-def follow(request, pk):
+def follow(request, user_pk):
     user = get_user_model()
-    person = get_user_model().objects.get(pk=pk)
+    person = user.objects.get(pk=user_pk)
     person.followers.add(request.user)
     return redirect("accounts:profile", person.username)
 
