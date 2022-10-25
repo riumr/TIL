@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>{{person.username}}의 프로필</h1>
+<p>팔로잉 : {{person.followings.all|length}} <span>팔로워 : {{person.followers.all|length}}</span></p>
+<form action="{% url 'accounts:follow' person.pk %}" method='POST'>
+    {% csrf_token %}
+    <button type="submit">follow</button>
+</form>
+{% endblock content %}
