@@ -597,3 +597,10 @@ python이 객체지향언어라는 점을 배웠다.
 [221025](https://github.com/riumr/TIL/blob/b17d011f8b84beedd9986146f0bfa65f838ef8bd/221025/221025.md) `M:N` `ManyToMany symmetrical`
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221025/실습) `프로필 팔로잉 기능`
+
+## 221026
+
+[221026](https://github.com/riumr/TIL/blob/51d5a19e38c8272a41ffef60e84dc874a50886e1/221026/221026.md) `Ajax(비동기처리기법)` `axios 클라이언트` `구글 맵`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221026/실습) `비동기식 comment 구현`
+

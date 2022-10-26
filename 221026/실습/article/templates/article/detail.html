@@ -3,15 +3,35 @@
 <h1>{{artilce.title}}</h1>
 <p>{{article.content}}</p>
 <a href="{% url 'article:index' %}">index</a>
-{% for i in comment %}
-<p>{{i.content}}</p>
-{% endfor %}
-<form id='comment-form'action="{% url 'article:comment_create' article.pk %}" method="POST">
+<div id="comments"></div>
+<form id='comment-form' data-article-id="{{article.pk}}"}" method="POST">
     {% csrf_token %}
     {{comment_form.as_p}}
     <button type="submit">submit</button>
 </form>
 <!-- axios comment -->
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+const commentForm = document.querySelector("#comment-form")
+const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value
+commentForm.addEventListener('submit',function(event){
+    event.preventDefault();
+    axios({
+        method:'post',
+        url:`/article/${event.target.dataset.articleId}/comments`,
+        header:{'X-CSRF_token':csrftoken},
+        data : new FormData(commentForm)
+    })
+    .then(response=>{
+        console.log(response.data)
+        const comments = document.querySelector('#comments')
+        const p = comments.createElement('p')
+        p.innerText = `${response.data.content}`
+        comments.append(p)
+        commentForm.reset()
+    })
+})
+</script>
+<!-- axios comment -->
 
 {% endblock content %}

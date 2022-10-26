@@ -1,6 +1,7 @@
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect, get_object_or_404
 from .models import Article, Comment
 from .forms import ArticleForm, CommentForm
+from django.http import JsonResponse
 
 # Create your views here.
 
@@ -41,13 +42,16 @@ def create(request):
 
 def comment_create(request, article_pk):
     comment_form = CommentForm(request.POST)
-    article = Article.objects.get(pk=article_pk)
+    article = Article.get_object_or_404(Article, pk=pk)
     if comment_form.is_valid():
         comment = comment_form.save(commit=False)
         comment.article = article
         comment.save()
-    comment_form.save()
-    return redirect("article:detail", article.pk)
+        comment_form.save()
+        context = {
+            "content": comment.content,
+        }
+        return JsonResponse(context)
 
 
 def comment_delete(request, article_pk, comment_pk):
