@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>{{artilce.title}}</h1>
+<p>{{article.content}}</p>
+<a href="{% url 'article:index' %}">index</a>
+{% for i in comment %}
+<p>{{i.content}}</p>
+{% endfor %}
+<form id='comment-form'action="{% url 'article:comment_create' article.pk %}" method="POST">
+    {% csrf_token %}
+    {{comment_form.as_p}}
+    <button type="submit">submit</button>
+</form>
+<!-- axios comment -->
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+{% endblock content %}
