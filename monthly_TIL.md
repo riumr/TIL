@@ -94,7 +94,7 @@
 
 [220913](https://github.com/riumr/TIL/tree/main/220913/실습) `Bootstrap` `pair programming`
 
-[220914](https://github.com/riumr/riumr.github.io) `Bootstrap` `pari programming` `favicon`
+[220914](https://github.com/riumr/riumr.github.io) `Bootstrap` `pair programming` `favicon`
 
 [220915](https://github.com/riumr/TIL/blob/61c9c756d20ce2a5fb1e1498f43ddd20c2ea2c4b/220915/%EC%9E%90%EC%8A%B5%EB%82%B4%EC%9A%A9.md) `javascript` `예외처리`
 

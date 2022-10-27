@@ -4,7 +4,10 @@
 <p>{{review.content}}</p>
 <a href="{% url 'reviews:index' %}">index</a>
 <!-- comment -->
-<form action="{% url 'reviews:comment_create' review.review_pk %}"method='POST'>
+{% for i in comment %}
+<p>{{i.comment}}</p>
+{% endfor %}
+<form action="{% url 'reviews:comment_create' review.pk %}" method='POST'>
     {% csrf_token %}
     {{comment_form.as_p}}
     <button type="submit">submit</button>

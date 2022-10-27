@@ -604,3 +604,8 @@ python이 객체지향언어라는 점을 배웠다.
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221026/실습) `비동기식 comment 구현`
 
+## 221027
+
+[221027](https://github.com/riumr/TIL/blob/1cb72909a628a86ae635fd178a7d7a0eb1aff571/221027/221027.md) `Django query 표현식` 
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221027/실습) `전체복습`

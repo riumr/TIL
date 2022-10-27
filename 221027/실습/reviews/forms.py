@@ -8,7 +8,7 @@ class ReviewForm(ModelForm):
         fields = "__all__"
 
 
-class CommnetForm(ModelForm):
+class CommentForm(ModelForm):
     class Meta:
         model = Comment
         exclude = ("review",)

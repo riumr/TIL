@@ -4,7 +4,7 @@
 <p>{{article.content}}</p>
 <a href="{% url 'article:index' %}">index</a>
 <div id="comments"></div>
-<form id='comment-form' data-article-id="{{article.pk}}"}" method="POST">
+<form id='comment-form' data-article-id="{{article.pk}}" method="POST">
     {% csrf_token %}
     {{comment_form.as_p}}
     <button type="submit">submit</button>
