@@ -1,0 +1,5 @@
+{% extends 'base.html' %}
+{% block content %}
+<p>{{user.username}}</p>
+<a href="{% url 'accounts:index' %}">index</a>
+{% endblock content %}

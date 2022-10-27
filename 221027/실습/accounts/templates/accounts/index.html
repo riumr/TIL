@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>This : {{user}}</h2>
+{% for i in user %}
+<p>{{i.pk}} <a href="{% url 'accounts:profile' i.pk %}">{{i.username}}</a></p>
+{% endfor %}
+<a href="{% url 'accounts:signup' %}">signup</a>
+<a href="{% url 'accounts:login' %}">login</a>
+<a href="{% url 'accounts:logout' %}">logout</a>
+{% endblock content %}

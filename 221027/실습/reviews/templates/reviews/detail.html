@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>{{review.title}}</h1>
+<p>{{review.content}}</p>
+<a href="{% url 'reviews:index' %}">index</a>
+<!-- comment -->
+<form action="{% url 'reviews:comment_create' review.review_pk %}"method='POST'>
+    {% csrf_token %}
+    {{comment_form.as_p}}
+    <button type="submit">submit</button>
+</form>
+{% endblock content %}
