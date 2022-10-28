@@ -609,3 +609,11 @@ python이 객체지향언어라는 점을 배웠다.
 [221027](https://github.com/riumr/TIL/blob/1cb72909a628a86ae635fd178a7d7a0eb1aff571/221027/221027.md) `Django query 표현식` 
 
 [실습내용](https://github.com/riumr/TIL/tree/main/221027/실습) `전체복습`
+
+## 221028
+
+`221027` 프로젝트를 이어서 진행했다.
+
+[221028](https://github.com/riumr/TIL/blob/2df5a154aa18c6ae6acd11d0300c7e1493d5a7d2/221028/221028.md) `Heroku 배포법`
+
+[실습내용](https://github.com/riumr/TIL/tree/main/221028/실습) `전체복습`
