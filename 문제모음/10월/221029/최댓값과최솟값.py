@@ -11,9 +11,7 @@ s = "1 2 3 4"
 
 def solution(s):
     # max_ = max(s)
-    min_ = min(s)
-    return f"{min_}"
+    return min(s)
 
 
 print(solution(s))
-print(min(s))
