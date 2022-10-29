@@ -141,3 +141,7 @@
 [221018](https://github.com/riumr/TIL/tree/main/221018/실습) `Django` `댓글기능` `ForeignKey`
 
 [221019](https://github.com/riumr/TIL/tree/main/221019/실습) `Django`  `유저식별` `AUTH_USER_MODEL`
+
+[221020](https://github.com/riumr/TIL/tree/main/221020/실습) `Django 게시판` `댓글기능` `회원관리`
+
+[221021](https://github.com/riumr/TIL/tree/main/221021/실습) `Django 게시판`
