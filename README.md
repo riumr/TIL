@@ -590,7 +590,7 @@ python이 객체지향언어라는 점을 배웠다.
 
 [221024](https://github.com/riumr/TIL/blob/3efebb5a799729a0e5eb4b3a85d506b792379aee/221024/221024.md) `프로젝트 계획 공지`
 
-[실습내용](https://github.com/riumr/TIL/tree/main/221024/실습)  `1:M` `ManyToMany Field`
+[실습내용](https://github.com/riumr/TIL/tree/main/221024/실습)  `1:M` `OneToMany Field`
 
 ## 221025
 
