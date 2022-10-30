@@ -6,12 +6,17 @@
 # 제한 조건
 # s에는 둘 이상의 정수가 공백으로 구분되어 있습니다.
 
-s = "1 2 3 4"
+s = "-1 -2 -3 -4"
 
 
 def solution(s):
-    # max_ = max(s)
-    return min(s)
+    # 문자열을 숫자 리스트로 바꿔서 최소, 최대 함수를 사용한다.
+    l = []
+    s = s.split(" ")
+    for i in s:
+        i = int(i)
+        l.append(i)
+    return f"{min(l)} {max(l)}"
 
 
 print(solution(s))
