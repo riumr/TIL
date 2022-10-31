@@ -10,6 +10,20 @@
 # 숫자로만 이루어진 단어는 없습니다.
 # 공백문자가 연속해서 나올 수 있습니다.
 
-s = "apple"
-# 단어의 첫 문자를 대문자로 바꿔준다.
-print(s)
+s = "apple tree"
+
+# 1
+print(s.title())
+
+# 2
+def solution(s):
+    s = s.split(" ")
+    l = []
+    for i in s:
+        i = i.capitalize()
+        l.append(i)
+    answer = " ".join(l)
+    return answer
+
+
+print(solution(s))
