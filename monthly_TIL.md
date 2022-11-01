@@ -142,10 +142,10 @@
 
 [221019](https://github.com/riumr/TIL/tree/main/221019/실습) `Django`  `유저식별` `AUTH_USER_MODEL`
 
-[221020](https://github.com/riumr/TIL/tree/main/221020/실습) `Django 게시판` `댓글기능` `회원관리`
+[221020](https://github.com/riumr/TIL/tree/main/221020/실습) `Django 게시판` `댓글기능 기본` `회원관리`
 
 [221021](https://github.com/riumr/TIL/tree/main/221021/실습) `Django 게시판`
 
-[221024](https://github.com/riumr/TIL/tree/main/221024/실습) `Django` `좋아요` `1:N`
+**[221024](https://github.com/riumr/TIL/tree/main/221024/실습) `Django` `좋아요` `1:N`**
 
 [221025](https://github.com/riumr/TIL/tree/main/221025/실습) `Django` `팔로잉` `M:N`
