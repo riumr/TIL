@@ -13,7 +13,7 @@
 s = "apple tree"
 
 # 1
-print(s.title())
+print(s.title())  # 조건을 완전히 충족하지 못한다.
 
 # 2
 def solution(s):
