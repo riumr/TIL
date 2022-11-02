@@ -25,4 +25,12 @@
 # 만약 주어진 단어들로 탈락자가 생기지 않는다면, [0, 0]을 return 해주세요.
 
 # return [ 번호, 차례 ]
-# 중복되는 단어가 나오면 탈락한다.
+# 중복되는 단어가 나오면 탈락한다. : 중복되는 단어를 체크해야한다.
+
+set_words = set(words)
+words_dict = {}
+for i in set_words:
+    words_dict[i] = 0
+for i in word_dict:
+    if i.value >= 2:
+        print(i.value)
