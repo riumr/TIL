@@ -28,9 +28,9 @@
 # 중복되는 단어가 나오면 탈락한다. : 중복되는 단어를 체크해야한다.
 
 words = ["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]
-words_dict = {}
+l = []
 for i in words:
-    words_dict[i] = 1
-for i in words_dict:
-    print(i)
-print(words_dict.values())
+    if i not in l:
+        l.append(i)
+    else:
+        print(i, l.index(i))
