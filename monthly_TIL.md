@@ -149,3 +149,7 @@
 **[221024](https://github.com/riumr/TIL/tree/main/221024/실습) `Django` `좋아요` `1:N`**
 
 [221025](https://github.com/riumr/TIL/tree/main/221025/실습) `Django` `팔로잉` `M:N`
+
+[221027](https://github.com/riumr/TIL/tree/main/221027/실습) `Django` `전체복습` `query 표현식의 유용함`
+
+[221028](https://github.com/riumr/TIL/blob/2df5a154aa18c6ae6acd11d0300c7e1493d5a7d2/221028/221028.md) `Django` `Heroku 배포법` `SECRET_KEY 처리법`
