@@ -129,5 +129,3 @@ clo
     - 버튼 클릭 시 해당 리뷰 데이터 수정 update
 
   ![Untitled 3](READMD.assets/Untitled 3.png)
-
-221106 재업로드
