@@ -27,10 +27,38 @@
 # return [ 번호, 차례 ]
 # 중복되는 단어가 나오면 탈락한다. : 중복되는 단어를 체크해야한다.
 
-words = ["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]
-l = []
-for i in words:
-    if i not in l:
-        l.append(i)
-    else:
-        print(i, l.index(i))
+words = [
+    "tank",
+    "kick",
+    "know",
+    "wheel",
+    "land",
+    "dream",
+    "mother",
+    "robot",
+    "adf",
+    "adsfasdf",
+    "afasd",
+    "Fasdfs",
+    "asdfa",
+    "asdfasd",
+    "tank",
+]
+
+
+def solution(n):
+    l = []
+    answer = [0, 0]
+    for i in range(len(words)):
+        if words[i] not in l:
+            l.append(words[i])
+        else:
+            answer = (
+                [1, ((i + 1) // n) + 1]
+                if ((i + 1) % n) == 0
+                else [(i + 1) % n, ((i + 1) // n) + 1]
+            )
+    return answer
+
+
+print(solution(5))
