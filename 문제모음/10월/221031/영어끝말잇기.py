@@ -27,6 +27,8 @@
 # return [ 번호, 차례 ]
 # 중복되는 단어가 나오면 탈락한다. : 중복되는 단어를 체크해야한다.
 # 끝말이 안 맞아도 탈락한다.
+from collections import deque
+
 
 words = [
     "tank",
@@ -48,18 +50,28 @@ words = [
     "tank",
 ]
 
+# for i in range(1, len(words)):
+#     if words[i - 1][-1] == words[i][0]:
+#         print(words[i - 1], words[i])
+#     else:
+#         break
+
 
 def solution(n):
     l = []
     answer = [0, 0]
-    for i in range(len(words)):
-        if words[i] not in l:
-            l.append(words[i])
-        else:
-            if (i + 1) % n == 0:
-                answer = [n, i // n + 1]
+    for i in range(1, len(words)):
+        if words[i - 1][-1] == words[i][0]:
+            if words[i - 1] not in l:
+                l.append(words[i - 1])
             else:
-                answer = [(i + 1) % n, i // n + 1]
+                if (i) % n == 0:
+                    answer = [n, (i - 1) // n + 1]
+                else:
+                    answer = [(i) % n, (i - 1) // n + 1]
+        else:
+            print(words[i])
+            break
     return answer
 
 
