@@ -27,52 +27,21 @@
 # return [ 번호, 차례 ]
 # 중복되는 단어가 나오면 탈락한다. : 중복되는 단어를 체크해야한다.
 # 끝말이 안 맞아도 탈락한다.
-from collections import deque
 
 
-words = [
-    "tank",
-    "kick",
-    "know",
-    "wheel",
-    "land",
-    #
-    "dream",
-    "mother",
-    "robot",
-    "adf",
-    "adsfasdf",
-    #
-    "afasd",
-    "Fasdfs",
-    "asdfa",
-    "asdfasd",
-    "tank",
-]
-
-# for i in range(1, len(words)):
-#     if words[i - 1][-1] == words[i][0]:
-#         print(words[i - 1], words[i])
-#     else:
-#         break
+wordss = ["hello", "one", "even", "never", "now", "world", "draw"]
 
 
-def solution(n):
-    l = []
-    answer = [0, 0]
+def solution(n, words):
+    answer = []
     for i in range(1, len(words)):
-        if words[i - 1][-1] == words[i][0]:
-            if words[i - 1] not in l:
-                l.append(words[i - 1])
-            else:
-                if (i) % n == 0:
-                    answer = [n, (i - 1) // n + 1]
-                else:
-                    answer = [(i) % n, (i - 1) // n + 1]
-        else:
-            print(words[i])
+        # words[:i]를 통해 i까지의 요소가 포함된 리스트에 단어가 포함되는지 체크할 수 있다.
+        if (words[i - 1][-1] != words[i][0]) or (words[i] in words[:i]):
+            answer = [(i % n) + 1, i // n + 1]
             break
+        else:
+            answer = [0, 0]
     return answer
 
 
-print(solution(5))
+print(solution(2, wordss))
