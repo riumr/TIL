@@ -42,3 +42,11 @@
 `PublicAPIs` 종류별 API 마켓
 
 `APIForThat 및 APIList` 심층적인 사용방법이 있는 API 마켓
+
+**API Gateway**
+
+기업용 API 관리도구. API 생성, 게시, 유지관리, 모니터링 및 보안유지를 쉽게 할 수 있도록 한다.
+
+**GraphQL**
+
+API용으로 특별히 개발된 쿼리 언어. 클라이언트에게 요청한 데이터만 제공하는 것을 목적으로 한다.
