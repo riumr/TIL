@@ -16,3 +16,5 @@
 8. 예측가능한 내용으로 업데이트
 
 **Gitlab이 대표적이다.**
+
+Github actions, AWS s3로도 가능하다.
