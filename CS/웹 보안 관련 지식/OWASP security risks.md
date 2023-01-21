@@ -1,8 +1,8 @@
 # OWASP security risks
-`**OWASP**` Open Web Application Security Project
+**`OWASP`** Open Web Application Security Project
 웹 어플리케이션에  대한 가장 주요한 보안 위험 목록을 만들고 유지하는 단체이다.
 
-`**Top 10**` (2021년 기준)
+**`Top 10`** (2021년 기준)
 
 1. `침입 (Injection)`  공격자가 악의적인 코드를 웹 어플리케이션에 보낼 수 있을 때 발생하며, 어플리케이션이 종료된다.
 이러한 공격은 공격자가 어플리케이션의 민감정보에 접근하거나 통제권을 얻게할 수도 있다.
