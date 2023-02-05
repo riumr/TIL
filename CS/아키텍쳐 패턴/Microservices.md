@@ -4,4 +4,4 @@
 - `monolithic architecture`에 비해 기민하고, 빠른 개발, 쉬운 유지관리를 가능하게 한다.
 - `microservices`들은 보통 독립적으로 배포되고 관리되어 장애 허용성과 확장성도 향상시킬 수 있다.
 
-![[microservices.svg]](https://github.com/riumr/TIL/blob/303992365df401643564523706cfb64a24a9613c/CS/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%20%ED%8C%A8%ED%84%B4/monolithic.svg)
+![[microservices.svg]](https://github.com/riumr/TIL/blob/40e037352bf7606b8390680fb5127d08814984f0/CS/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%20%ED%8C%A8%ED%84%B4/microservices.svg)
