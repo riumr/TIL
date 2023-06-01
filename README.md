@@ -120,6 +120,8 @@
 
 [220930](https://github.com/riumr/TIL/tree/main/22년9월/220930/실습) `Django` `CRUD`
 
+## 10월
+
 [221004](https://github.com/riumr/TIL/tree/main/22년10월/221004/실습) `Django` `CRUD` `Django Form`
 
 [221005](https://github.com/riumr/TIL/blob/2a9bb15eca96774038e1199e3939ea0be3a44d6b/221005/221005.md) `Django` `static/` `admin` 
