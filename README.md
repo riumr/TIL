@@ -167,3 +167,5 @@
 [221102](https://github.com/riumr/TIL/blob/08ca6a549e8f739df235a7ac5e08447d7ef87086/CS/%EC%9D%B8%ED%84%B0%EB%84%B7/%EC%9D%B8%ED%84%B0%EB%84%B7.md) `TCP`
 
 [221103](https://github.com/riumr/TIL/blob/08ca6a549e8f739df235a7ac5e08447d7ef87086/CS/%EC%9D%B8%ED%84%B0%EB%84%B7/%EC%9D%B8%ED%84%B0%EB%84%B7.md) `IPv6` `셀룰러` `SSL` `DNS` `Ping`
+
+[221106](https://github.com/riumr/TIL/blob/08ca6a549e8f739df235a7ac5e08447d7ef87086/CS/%EC%9D%B8%ED%84%B0%EB%84%B7/%EC%9D%B8%ED%84%B0%EB%84%B7.md) `운영체제 개념과 구성` `API 개념`
