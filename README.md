@@ -169,3 +169,5 @@
 [221103](https://github.com/riumr/TIL/blob/08ca6a549e8f739df235a7ac5e08447d7ef87086/CS/%EC%9D%B8%ED%84%B0%EB%84%B7/%EC%9D%B8%ED%84%B0%EB%84%B7.md) `IPv6` `셀룰러` `SSL` `DNS` `Ping`
 
 [221106](https://github.com/riumr/TIL/blob/994832efa78169fb02b68d12a7aa8467ac33b86f/CS/OS%20%EC%A7%80%EC%8B%9D/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C(OS)%20%EC%9E%91%EB%8F%99%EB%B0%A9%EC%8B%9D.md) `운영체제 개념과 구성` `API 개념`
+
+[221107](https://github.com/riumr/TIL/blob/main/CS/DB/RDB(Relational%20Database).md) `RDB 개념과 장점`
