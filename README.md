@@ -171,3 +171,5 @@
 [221106](https://github.com/riumr/TIL/blob/994832efa78169fb02b68d12a7aa8467ac33b86f/CS/OS%20%EC%A7%80%EC%8B%9D/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C(OS)%20%EC%9E%91%EB%8F%99%EB%B0%A9%EC%8B%9D.md) `운영체제 개념과 구성` `API 개념`
 
 [221107](https://github.com/riumr/TIL/blob/main/CS/DB/RDB(Relational%20Database).md) `RDB 개념과 장점`
+
+[221108 - 1109](https://github.com/riumr/TIL/blob/7c510d287492a01eea5d88bc107d6079ae0348a2/CS/DB/NoSQL%20%EA%B4%80%EB%A0%A8/NoSQL.md) `NoSQL의 개념` `NoSQL의 종류`
