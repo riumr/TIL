@@ -1,2 +1,3 @@
 *.sqlite3
 django_참고.pdf
+*.json
