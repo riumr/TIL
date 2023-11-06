@@ -173,3 +173,6 @@
 [221107](https://github.com/riumr/TIL/blob/main/CS/DB/RDB(Relational%20Database).md) `RDB 개념과 장점`
 
 [221108 - 1109](https://github.com/riumr/TIL/blob/7c510d287492a01eea5d88bc107d6079ae0348a2/CS/DB/NoSQL%20%EA%B4%80%EB%A0%A8/NoSQL.md) `NoSQL의 개념` `NoSQL의 종류`
+
+## 23년
+[231106]() `useState에 useEffect 더해서 비동기 적용`
