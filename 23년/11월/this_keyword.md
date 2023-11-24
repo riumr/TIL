@@ -1,5 +1,5 @@
 ## 231123
-### javascript 스터디
+### Javascript 스터디
 
 `this` 키워드
 - 객체를 참조할 때 사용한다.
