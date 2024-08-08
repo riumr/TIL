@@ -17,3 +17,9 @@ Figma 컴포넌트의 구조를 보여준다.
 
 - `AutoHTML`은 `div`로 구성된 코드를 보여주고, `Framer`는 내부 `component`들을 계층 구조로 보여준다.
 - `AutoHTML`이 간단하게 `div`가 얼마나 필요한지 확인하기에 좋다.
+
+### Figma Dev
+
+- Design component의 CSS 속성 코드를 확인할 수 있다.
+- vscode 확장을 통해 vscode에서 Figma 화면 및 dev 모드로 얻은 코드를 바로 확인할 수 있다.
+- Figma에서 설정한 그림자 속성 같이 세세한 요소를 파악하는 데 유용하다.
