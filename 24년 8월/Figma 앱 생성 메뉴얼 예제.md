@@ -5,10 +5,14 @@
 - Figma 컴포넌트 생성
 
   - 컴포넌트 라이브러리 사용 시
+
     - 사용할 라이브러리 선택 `simple design system`
-    - 해당 라이브러리에서 사용할 컴포넌트 선택
-  - 컴포넌트 이름 정의
-  - event 설정
+    - 해당 라이브러리에서 사용할 컴포넌트 선택 `Checkbox Field`
+
+      ![Checkbox Field](Checkbox%20Field.png)
+
+  - 컴포넌트 이름 정의 `체크박스 필드`
+  - event 설정 `click`
   - 하위 컴포넌트로 사용할 컴포넌트 구별
 
 - 디자인 시스템 정의
