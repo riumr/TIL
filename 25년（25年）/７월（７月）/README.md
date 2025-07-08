@@ -8,4 +8,4 @@
 ### 250706
 #### 今週のアーティクル
 - [Javaを10倍高速化する実践テクニック集](https://qiita.com/ShigemoriMasato/items/21a5e791cde3bfcbb8d2)
-- [まとめ]()
+- [まとめ](速いJava.md)
